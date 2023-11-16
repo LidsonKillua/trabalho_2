@@ -1,0 +1,5 @@
+87577,Lucas Rodrigues,2571,729,PP,Belo Horizonte,13
+63205,Marianna Lima,1536,4874,PSDB,Belo Horizonte,54
+14150,Ricardo Rodrigues,1268,2286,PT,Belo Horizonte,8
+11354,Ellen Lima,3676,96,PCdoB,Ponte Nova,23
+11254,Nicolas Oliveira,2293,3310,PCB,Ponte Nova,32
