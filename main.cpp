@@ -18,6 +18,7 @@ int main()
     std::cout << "3 - Cadastrar vereador" << std::endl;
     std::cout << "4 - Votar" << std::endl;
     std::cout << "5 - Sair" << std::endl;
+    std::cout << "6 - Ler automaticamente" << std::endl; 
     std::cout << "Qual operação você deseja fazer?: ";
     std::cin >> op;
 
@@ -37,6 +38,11 @@ int main()
         break;
     case 5:
         std::cout << "Saindo..." << std::endl;
+        break;
+    case 6:
+        Eleitor::lerEleitor(&eleitores);
+        Prefeito::lerPrefeito(&prefeitos);
+        Vereador::lerVereador(&vereadores);
         break;
     default:
         std::cout << "Opção inválida!" << std::endl;

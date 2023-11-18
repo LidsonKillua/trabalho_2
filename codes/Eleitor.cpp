@@ -57,10 +57,11 @@ void Eleitor::setSecao(std::string secao)
 
 void Eleitor::lerEleitor(std::vector<Eleitor> *eleitores)
 {
+    std::string titulo, nome, zona, secao;
+
     for (int i = 0; i < 2000; i++)
     {
         std::cout << "Digite o titulo, nome, zona e secao do eleitor separados por virgula: " << std::endl;
-        std::string titulo, nome, zona, secao;
         std::getline(std::cin, titulo, ',');
         std::getline(std::cin, nome, ',');
         std::getline(std::cin, zona, ',');
@@ -72,20 +73,15 @@ void Eleitor::lerEleitor(std::vector<Eleitor> *eleitores)
             eleitoresValidos->push_back(Eleitor(titulo, nome, zona, secao));
         }
         else
-        {
-            for (int i = 0; i < eleitores->size(); i++)
+        {            
+            if (validarEleitor(titulo))
             {
-                if (validarEleitor(titulo))
-                {
-                    std::cout << "Eleitor já cadastrado!" << std::endl;
-                    break;
-                }
-                else
-                {
-                    eleitores->push_back(Eleitor(titulo, nome, zona, secao));
-                    eleitoresValidos->push_back(Eleitor(titulo, nome, zona, secao));
-                    break;
-                }
+                std::cout << "Eleitor já cadastrado!" << std::endl;
+            }
+            else
+            {
+                eleitores->push_back(Eleitor(titulo, nome, zona, secao));
+                eleitoresValidos->push_back(Eleitor(titulo, nome, zona, secao));
             }
         }
     }
@@ -94,17 +90,10 @@ void Eleitor::lerEleitor(std::vector<Eleitor> *eleitores)
 bool validarEleitor(std::string titulo)
 {
 
-    for (int i = 0; i < eleitoresValidos->size(); i++)
-    {
+    for (int i = 0; i < eleitoresValidos->size(); i++)    
         if (eleitoresValidos->at(i).getTitulo() == titulo)
-        {
             return true; // eleitor cadastrado retorna true
-        }
-        else
-        {
-            continue;
-        }
-    }
+
     return false;
 }
 

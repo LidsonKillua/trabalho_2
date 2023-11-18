@@ -1,5 +1,5 @@
-87577,Lucas Rodrigues,2571,729,PP,Belo Horizonte,13
-63205,Marianna Lima,1536,4874,PSDB,Belo Horizonte,54
-14150,Ricardo Rodrigues,1268,2286,PT,Belo Horizonte,8
-11354,Ellen Lima,3676,96,PCdoB,Ponte Nova,23
-11254,Nicolas Oliveira,2293,3310,PCB,Ponte Nova,32
+84101,Leo Pereira,3618,4506,PCB,Salvador,18
+98790,João Rodrigues,359,319,PP,Vitória,54
+59250,João Pinto,1538,4260,PDT,Curitiba,39
+42209,Leo Rodrigues,1021,2287,PP,Brasília,12
+74541,Hugo da Silva,3226,2266,PL,Curitiba,87

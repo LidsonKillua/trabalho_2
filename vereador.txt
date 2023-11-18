@@ -1,71 +1,70 @@
-3
-34267,Lucas Oliveira,4715,1496,PSDB,Ponte Nova,525
-78213,João Pinto,2567,4191,PCdoB,Ponte Nova,132
-49949,Thierry Lima,830,4144,PT,São Paulo,540
-60046,Hugo Martins,4681,2953,PCdoB,Ponte Nova,633
-41652,Lele Pinto,2029,3215,PP,Ponte Nova,133
-78836,Nicolas Santos,3487,4170,PSDB,Vitória,132
-44909,João das Dores,3212,2296,PCB,Rio de Janeiro,339
-19931,Leo Lima,4312,1337,PCB,Vitória,634
-90326,Thierry Martins,955,2317,PSDB,Ponte Nova,783
-88330,Ricardo Pereira,658,3871,PL,Vitória,107
-33404,Leo das Dores,2784,221,PP,Ponte Nova,799
-66980,Thierry Santos,4893,2045,PP,Rio de Janeiro,94
-73776,Pedro Pinto,4762,4686,PSDB,Viçosa,59
-12754,Ellen da Silva,2590,2675,PT,Ponte Nova,459
-94109,Leo Santos,2576,1267,PL,Viçosa,77
-72099,Pedro Pinto,1652,3059,PL,Coimbra,967
-26156,Lele Pinto,4301,1941,PP,Rio de Janeiro,889
-73247,Ellen Oliveira,3669,2957,PCdoB,Viçosa,476
-23146,Lucas Pereira,2134,1740,PSDB,São Paulo,815
-40504,Pedro da Silva,4816,3561,PP,Belo Horizonte,873
-95465,Hugo Oliveira,4608,3533,PCdoB,Rio de Janeiro,861
-46610,Leo Rodrigues,3762,3742,PCdoB,Coimbra,229
-56975,Marianna Lima,4633,4537,PP,Rio de Janeiro,690
-23586,Marianna Souza,973,2975,PT,Vila Velha,12
-88972,Ricardo das Dores,158,379,PCdoB,São Paulo,382
-31169,Ricardo Pereira,2200,3778,PL,Viçosa,430
-11831,Pedro Souza,3925,3272,PL,Ponte Nova,887
-59477,Leo Martins,317,940,PP,Vitória,466
-29653,Marianna Oliveira,1822,1032,PCdoB,Vila Velha,726
-18503,Ellen Pereira,1046,1769,PCdoB,Belo Horizonte,128
-57064,Lele da Silva,2880,4387,NOVO,Viçosa,684
-83394,Nicolas da Silva,352,1277,PSDB,Ponte Nova,874
-40315,Ellen das Dores,3708,2415,NOVO,Rio de Janeiro,428
-47666,Lele Lima,3875,301,PCdoB,Rio de Janeiro,475
-91597,Lucas Lima,710,712,NOVO,Vitória,744
-18861,Leo Pereira,2246,4130,PSDB,Rio de Janeiro,849
-78838,Marianna Lima,1781,1060,NOVO,Viçosa,678
-93015,Pedro Oliveira,1002,3788,NOVO,Rio de Janeiro,604
-68268,Nicolas Pereira,2173,3516,PCB,Vitória,652
-65182,Leo Souza,1927,3886,PP,São Paulo,278
-73606,Ricardo das Dores,2811,2354,PL,São Paulo,851
-36907,Pedro Pereira,3105,4514,PSDB,Vitória,177
-15974,Leo Lima,2482,3820,PT,Rio de Janeiro,164
-98447,Pedro das Dores,3316,3907,PSDB,Coimbra,952
-15326,Lele Souza,3415,1400,PCdoB,Coimbra,491
-97744,Leo Martins,3472,3894,PP,Viçosa,20
-52639,Nicolas das Dores,3018,164,PSDB,Vila Velha,563
-46865,Pedro Oliveira,1990,905,PT,Belo Horizonte,830
-86185,Nicolas Souza,1334,547,PT,Coimbra,847
-62256,Pedro Santos,378,1888,PCB,Ponte Nova,353
-34531,Ricardo Lima,3122,3446,NOVO,Vila Velha,780
-82945,Lucas das Dores,301,138,PSDB,Coimbra,873
-94113,Leo Pereira,3328,1929,PP,Rio de Janeiro,774
-84977,João das Dores,2363,1880,PT,Coimbra,961
-18647,Nicolas Pereira,2401,3186,PCB,Viçosa,216
-48192,Leo Souza,2411,743,PP,Belo Horizonte,605
-27652,Ellen Lima,2774,3009,NOVO,Viçosa,261
-72405,Lucas Oliveira,371,2857,PSDB,Ponte Nova,822
-50492,Lucas Rodrigues,3286,429,PP,São Paulo,314
-10334,Lele Pinto,2653,4819,NOVO,Belo Horizonte,440
-18674,Hugo das Dores,4456,2191,PCdoB,Belo Horizonte,657
-71886,Ricardo Rodrigues,1483,3575,PCdoB,Belo Horizonte,657
-11999,Pedro Souza,4943,875,PCdoB,São Paulo,134
-33231,Lucas das Dores,344,4320,PCB,São Paulo,911
-90064,Lele Oliveira,4531,2835,PCB,Viçosa,773
-28495,Ellen Martins,599,631,PL,Coimbra,50
-17611,Thierry Santos,3381,609,PT,Coimbra,48
-14327,Marianna Oliveira,1484,3179,PSDB,Vila Velha,256
-64837,Nicolas Souza,1280,4242,PP,Ponte Nova,52
-30363,Hugo Lima,2939,4829,PCB,Belo Horizonte,921
+66281,Leo Ferreira,4396,2671,PL,Rio de Janeiro,56
+39863,Lidson Pereira,1892,1683,PDT,Coimbra,96
+26990,Thierry Souza,2279,174,PSTU,Brasília,110
+89449,João Santos,791,2372,NOVO,Recife,354
+70283,Pedro Santos,3503,4975,PP,Ponte Nova,487
+92210,Ellen Ferreira,1615,3850,PSB,Coimbra,710
+27365,Lucas da Silva,2309,689,PSDB,São Paulo,248
+90161,Thierry Martins,3185,3366,PCB,Ponte Nova,713
+36040,Ricardo de Jesus,3112,1324,PCdoB,Curitiba,239
+48775,Lucas Rodrigues,495,634,PSTU,São Paulo,828
+42309,Hugo Pinto,1405,3307,PSB,Curitiba,444
+29685,Nicolas das Dores,554,1119,PSTU,Curitiba,42
+60927,João Ferreira,3930,1509,PT,Vitória,221
+35300,Thierry Rodrigues,3090,3133,PCdoB,Coimbra,929
+74910,Ricardo Souza,3553,2427,PSTU,Viçosa,764
+33069,Leo Ferreira,637,466,PSB,Viçosa,692
+95199,Nicolas da Silva,2064,1656,PSOL,Rio de Janeiro,917
+97135,Hugo das Dores,2043,1145,PSB,Coimbra,793
+17331,Leo Pereira,4144,2817,PL,Belo Horizonte,223
+80912,Hugo Martins,973,4876,PSDB,Vitória,485
+50774,Lele Rodrigues,2678,168,PT,Ponte Nova,728
+72894,Ricardo Pereira,3977,3446,PSTU,Brasília,569
+18227,Leo Souza,4127,4855,PSTU,Viçosa,904
+28977,João Santos,2820,3165,PSTU,Salvador,148
+35351,João Pereira,4017,2203,PSB,Vila Velha,3
+16005,João Lima,1649,1238,PSOL,Viçosa,936
+30077,Leo Souza,3395,1371,PCB,Rio de Janeiro,926
+23847,Lele Pereira,3860,4678,PSDB,Vila Velha,521
+83077,Thierry das Dores,3440,2050,PSC,Coimbra,833
+28564,Hugo Santos,2516,2615,PP,São Paulo,549
+19078,Lucas Lima,2089,3608,PSTU,Vila Velha,363
+83694,Marianna Souza,2365,4515,PSB,Recife,332
+20003,Leo Ferreira,1248,4449,PSOL,Vitória,115
+29326,Ellen das Dores,4272,847,PSTU,Coimbra,866
+87613,Marianna Lima,512,3510,PSTU,Viçosa,676
+26529,Lucas Martins,4776,1313,PSOL,Curitiba,705
+38498,Ellen Martins,2296,2532,PDT,Recife,536
+24287,Lele Lima,1817,2656,PP,Ponte Nova,340
+86802,Leo Martins,168,2458,PDT,Recife,174
+91168,Ellen Ferreira,4670,800,PSOL,Recife,205
+39069,Lidson da Silva,3956,4036,PSTU,Vila Velha,484
+26676,Pedro Oliveira,3739,1577,PSC,Brasília,972
+69971,Nicolas Santos,3506,3112,PT,Salvador,446
+27153,Lele Rodrigues,3620,1899,PDT,São Paulo,192
+10029,Hugo Souza,2386,1484,PT,Vitória,46
+80729,Lucas Oliveira,3807,1030,PCdoB,Ponte Nova,977
+81357,Marianna Lima,648,3537,PCB,Coimbra,222
+48798,Pedro Ferreira,2685,1090,PCdoB,Vila Velha,833
+77014,Marianna Souza,1854,2671,PCdoB,Recife,542
+42641,Leo Martins,1255,1607,PP,Ponte Nova,841
+53478,Ricardo Santos,4472,3741,PCdoB,Salvador,484
+24617,Nicolas Martins,700,24,PCdoB,Curitiba,862
+14738,Pedro Santos,3173,1103,PSDB,Salvador,901
+71784,Ricardo Souza,1279,1747,PDT,Brasília,389
+44347,Leo Pereira,2296,2317,PSTU,Coimbra,557
+87273,Ricardo Martins,2262,3232,PDT,Brasília,37
+24461,Lele Ferreira,4536,2935,NOVO,Curitiba,829
+53049,Ellen da Silva,4542,2788,PP,Vitória,456
+80394,Thierry Oliveira,3653,305,PSB,Brasília,641
+48221,Thierry Souza,1004,566,PT,Vila Velha,998
+54432,Marianna da Silva,1715,97,PSTU,Recife,83
+96518,Pedro Rodrigues,4797,2474,PP,Curitiba,716
+54178,Pedro Lima,2728,1469,NOVO,Recife,30
+19250,Marianna Pereira,3196,3687,PL,Vitória,534
+14168,Pedro Ferreira,1725,3388,PSB,Vila Velha,887
+33448,Lucas Oliveira,4583,4691,PSB,Curitiba,560
+30802,Thierry Pinto,4881,3136,PL,Rio de Janeiro,326
+35794,Leo Pinto,4892,1094,PP,Brasília,863
+19658,Lucas Oliveira,886,2287,PP,São Paulo,123
+15811,Marianna Santos,951,1823,PSTU,Brasília,912

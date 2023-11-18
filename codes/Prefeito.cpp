@@ -80,21 +80,15 @@ bool validarPrefeitoEmEleitor(std::string titulo)
 {
 
     for (int i = 0; i < Eleitor::eleitoresValidos->size(); i++)
-    {
         if (Eleitor::eleitoresValidos->at(i).getTitulo() == titulo)
-        {
             return true; // eleitor cadastrado retorna true
-        }
-        else
-        {
-            continue;
-        }
-    }
+
     return false;
 }
 
 void Prefeito::display()
 {
+    std::cout << "Prefeito" << std::endl;
     std::cout << "Titulo: " << this->getTitulo() << std::endl;
     std::cout << "Nome: " << this->getNome() << std::endl;
     std::cout << "Zona: " << this->getZona() << std::endl;
