@@ -1,7 +1,7 @@
 ﻿#include "../headers/Prefeito.hpp"
 
 Prefeito::Prefeito(Eleitor eleitor, std::string partido, std::string cidade, std::string numero) : 
-    Eleitor(eleitor), partido(partido), cidade(cidade), numero(numero)
+    Eleitor(eleitor), partido(partido), cidade(cidade), numero(numero), votos(0)
 {
 }
 
@@ -29,18 +29,29 @@ std::string Prefeito::getNumero()
     return this->numero;
 }
 
+int Prefeito::getVotos()
+{
+    return this->votos;
+}
+
 void Prefeito::setCidade(std::string cidade)
 {
     this->cidade = cidade;
 }
 
-bool Prefeito::IsPrefeitoCadastrado(std::string titulo)
+void Prefeito::setVotos(int votos)
 {
-    for (int i = 0; i < eleitoresValidos->size(); i++)
-        if (Prefeito::prefeitos->at(i).getTitulo() == titulo)
-            return true; // prefeito cadastrado retorna true
+    this->votos = votos;
+}
 
-    return false;
+void Prefeito::setNumero(std::string numero)
+{
+    this->numero = numero;
+}
+
+void Prefeito::ReceberVoto()
+{
+    setVotos(getVotos() + 1);
 }
 
 void Prefeito::display()

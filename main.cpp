@@ -1,102 +1,47 @@
-﻿#include <bits/stdc++.h>
-#include "headers/Tribunal.hpp"
-
-void LerVarios(){
-    nomeArquivo = "eleitor.txt";
-    std::ifstream arquivo(nomeArquivo);
-    std::string linha;
-    std::string titulo, nome, zona, secao;
-
-    if(arquivo.is_open()){
-        while(getline(arquivo, linha)){
-            std::stringstream ss(linha);
-            getline(ss, titulo, ',');
-            getline(ss, nome, ',');
-            getline(ss, zona, ',');
-            getline(ss, secao, '\n');
-
-            Tribunal::criarEleitor(titulo, nome, zona, secao);
-        }
-
-        arquivo.close();
-    }
-
-    nomeArquivo = "prefeito.txt";
-    arquivo.open(nomeArquivo);
-    std::string partido, cidade, numero;
-
-    if(arquivo.is_open()){
-        while(getline(arquivo, linha)){
-            std::stringstream ss(linha);
-            getline(ss, titulo, ',');
-            getline(ss, nome, ',');
-            getline(ss, zona, ',');
-            getline(ss, secao, ',');
-            getline(ss, partido, ',');
-            getline(ss, cidade, ',');
-            getline(ss, numero, '\n');
-
-            Tribunal::criarPrefeito(titulo, nome, zona, secao, partido, cidade, numero);
-        }
-
-        arquivo.close();
-    }
-
-    nomeArquivo = "vereador.txt";
-    arquivo.open(nomeArquivo);
-
-    if(arquivo.is_open()){
-        while(getline(arquivo, linha)){
-            std::stringstream ss(linha);
-            getline(ss, titulo, ',');
-            getline(ss, nome, ',');
-            getline(ss, zona, ',');
-            getline(ss, secao, ',');
-            getline(ss, partido, ',');
-            getline(ss, cidade, ',');
-            getline(ss, numero, '\n');
-
-            Tribunal::criarVereador(titulo, nome, zona, secao, partido, cidade, numero);
-        }
-
-        arquivo.close();
-    }
-}
+﻿#include "headers/Tribunal.hpp"
+#include <iostream>
 
 int main()
 {
+    Tribunal TribunalPrincipal; 
     int op;
     std::cout << "Bem vindo ao sistema de eleição!" << std::endl;
 
-    while(op != 6){   
+    bool rodar = true;
+    while(rodar){   
         std::cout << "Escolha uma opção:" << std::endl; 
         std::cout << "1 - Cadastro de eleitores" << std::endl;
         std::cout << "2 - Cadastro de prefeitos" << std::endl;
         std::cout << "3 - Cadastro de vereadores" << std::endl;
-        std::cout << "4 - Iniciar Eleição" << std::endl;
-        std::cout << "5 - Cadastrar automaticamente(Testes)" << std::endl;
-        std::cout << "6 - Sair" << std::endl;
+        std::cout << "4 - Listar cadastrados" << std::endl;
+        std::cout << "5 - Iniciar Eleição" << std::endl;
+        std::cout << "6 - Cadastrar automaticamente(Testes)" << std::endl;
+        std::cout << "9 - Sair" << std::endl;
         std::cin >> op;
 
         switch(op)
         {
         case 1:
-            Eleitor::lerEleitor(&eleitores);
+            TribunalPrincipal.CadastroEleitor();
             break;
         case 2:
-            Prefeito::lerPrefeito(&prefeitos);
+            TribunalPrincipal.CadastroPrefeito();
             break;
         case 3:
-            Vereador::lerVereador(&vereadores);
+            TribunalPrincipal.CadastroVereador();
             break;
         case 4:
-            Tribunal::realizarEleicao();
+            TribunalPrincipal.listarTodos();
             break;
         case 5:
-            LerVarios();
+            TribunalPrincipal.realizarEleicao();
             break;
         case 6:
+            TribunalPrincipal.LerVarios();
+            break;
+        case 9:
             std::cout << "Saindo..." << std::endl;
+            rodar = false;
             break;
         default:
             std::cout << "Opção inválida!" << std::endl;

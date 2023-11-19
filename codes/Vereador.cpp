@@ -2,7 +2,7 @@
 
 Vereador::Vereador(Eleitor eleitor, std::string partido, std::string cidade, std::string numero) : 
     Eleitor(eleitor.getTitulo(), eleitor.getNome(), eleitor.getZona(), eleitor.getSecao()), partido(partido), 
-    cidade(cidade), numero(numero)
+    cidade(cidade), numero(numero), votos(0)
 {
 }
 
@@ -25,6 +25,11 @@ std::string Vereador::getNumero()
     return this->numero;
 }
 
+int Vereador::getVotos()
+{
+    return this->votos;
+}
+
 void Vereador::setCidade(std::string cidade)
 {
     this->cidade = cidade;
@@ -35,9 +40,19 @@ void Vereador::setPartido(std::string partido)
     this->partido = partido;
 }
 
+void Vereador::setVotos(int votos)
+{
+    this->votos = votos;
+}
+
 void Vereador::setNumero(std::string numero)
 {
     this->numero = numero;
+}
+
+void Vereador::ReceberVoto()
+{
+    setVotos(getVotos() + 1);
 }
 
 void Vereador::display()

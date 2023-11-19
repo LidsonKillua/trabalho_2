@@ -1,12 +1,15 @@
 ﻿#ifndef PREFEITO_HPP
 #define PREFEITO_HPP
-#include <bits/stdc++.h>
-#include "../headers/Eleitor.hpp"
+
+#include "Eleitor.hpp"
 
 class Prefeito : public Eleitor
 {
     private:
         std::string partido, numero, cidade;
+        int votos;
+
+        void setVotos(int votos);
 
     public:
         Prefeito(Eleitor eleitor, std::string partido, std::string cidade, std::string numero);
@@ -14,8 +17,11 @@ class Prefeito : public Eleitor
         std::string getCidade();
         std::string getPartido();
         std::string getNumero();
+        int getVotos();
         void setPartido(std::string partido);
         void setCidade(std::string cidade);
+        void setNumero(std::string numero);
+        void ReceberVoto();
         void display();
 };
 

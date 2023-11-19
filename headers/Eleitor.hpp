@@ -1,7 +1,8 @@
 ﻿#ifndef ELEITOR_HPP
 #define ELEITOR_HPP
 
-#include <bits/stdc++.h>
+#include <string>
+#include <iostream>
 
 class Eleitor
 {

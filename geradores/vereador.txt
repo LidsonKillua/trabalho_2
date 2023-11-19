@@ -1,0 +1,15 @@
+11612,Lele da Silva,2519,1625,PSB,Salvador,219
+42520,Nicolas Santos,640,3122,PP,Curitiba,614
+61393,Pedro das Dores,788,2194,PSC,Coimbra,141
+52309,Lele Ferreira,427,4395,PSB,Curitiba,732
+50333,Nicolas da Silva,4000,3106,PT,São Paulo,1
+57498,João de Jesus,4730,3963,PT,Belo Horizonte,725
+29639,Ellen de Jesus,3602,1544,NOVO,Curitiba,733
+86964,Lidson Oliveira,3664,1102,PSDB,Coimbra,885
+56750,Nicolas Rodrigues,46,3904,PSOL,Brasília,960
+80638,Ellen de Jesus,4094,1849,PSDB,São Paulo,852
+15141,Hugo da Silva,173,2576,PSDB,Rio de Janeiro,389
+14342,Leo das Dores,1261,482,PSC,Ponte Nova,766
+29582,Ellen das Dores,4831,3735,PT,Viçosa,804
+86333,Ellen Santos,3011,1036,PSC,Viçosa,800
+41433,Ellen Lima,3872,1191,NOVO,Salvador,164
