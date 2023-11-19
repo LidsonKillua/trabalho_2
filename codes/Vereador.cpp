@@ -1,10 +1,9 @@
 ﻿#include "../headers/Vereador.hpp"
 
-Vereador::Vereador(Eleitor eleitor, std::string partido, std::string cidade, std::string numero) : Eleitor(eleitor.getTitulo(), eleitor.getNome(), eleitor.getZona(), eleitor.getSecao())
+Vereador::Vereador(Eleitor eleitor, std::string partido, std::string cidade, std::string numero) : 
+    Eleitor(eleitor.getTitulo(), eleitor.getNome(), eleitor.getZona(), eleitor.getSecao()), partido(partido), 
+    cidade(cidade), numero(numero)
 {
-    this->partido = partido;
-    this->numero = numero;
-    this->cidade = cidade;
 }
 
 Vereador::~Vereador()
@@ -40,63 +39,6 @@ void Vereador::setNumero(std::string numero)
 {
     this->numero = numero;
 }
-
-void Vereador::lerVereador(std::vector<Vereador> *vereadores)
-{
-    for (int i = 0; i < 70; i++)
-    {
-        std::cout << "Digite o titulo, nome, zona, seção, partido, cidade e numero do candidato " << std::endl;
-        std::string titulo, nome, zona, secao, partido, cidade, numero;
-        std::getline(std::cin, titulo, ',');
-        std::getline(std::cin, nome, ',');
-        std::getline(std::cin, zona, ',');
-        std::getline(std::cin, secao, ',');
-        std::getline(std::cin, partido, ',');
-        std::getline(std::cin, cidade, ',');
-        std::getline(std::cin, numero, '\n');
-
-        if (vereadores->size() == 0)
-        {
-            vereadores->push_back(Vereador(Eleitor(titulo, nome, zona, secao), partido, cidade, numero));
-            if (!validarVereadorEmEleitor(titulo)) Eleitor::eleitoresValidos->push_back(Eleitor(titulo, nome, zona, secao));
-        }
-        else
-        {
-            for (int i = 0; i < vereadores->size(); i++)
-            {
-                if (vereadores->at(i).getTitulo() == titulo)
-                {
-                    std::cout << "Vereador já cadastrado!" << std::endl;
-                    break;
-                }
-                else
-                {
-                    vereadores->push_back(Vereador(Eleitor(titulo, nome, zona, secao), partido, cidade, numero));
-                    if (!validarVereadorEmEleitor(titulo)) Eleitor::eleitoresValidos->push_back(Eleitor(titulo, nome, zona, secao));
-                    break;
-                }
-            }
-        }
-    }
-}
-
-bool validarVereadorEmEleitor(std::string titulo)
-{
-
-    for (int i = 0; i < Eleitor::eleitoresValidos->size(); i++)
-    {
-        if (Eleitor::eleitoresValidos->at(i).getTitulo() == titulo)
-        {
-            return true; // eleitor cadastrado retorna true
-        }
-        else
-        {
-            continue;
-        }
-    }
-    return false;
-}
-
 
 void Vereador::display()
 {

@@ -16,8 +16,6 @@ class Prefeito : public Eleitor
         std::string getNumero();
         void setPartido(std::string partido);
         void setCidade(std::string cidade);
-        static bool validarPrefeitoEmEleitor(std::string titulo);
-        static void lerPrefeito(std::vector<Prefeito> *prefeitos);
         void display();
 };
 

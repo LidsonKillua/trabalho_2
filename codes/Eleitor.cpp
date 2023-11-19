@@ -1,6 +1,6 @@
 ﻿#include "../headers/Eleitor.hpp"
 
-std::vector<Eleitor> *eleitoresValidos = new std::vector<Eleitor>;
+std::vector<Eleitor> *ListaEleitores = new std::vector<Eleitor>;
 
 Eleitor::Eleitor(std::string titulo, std::string nome, std::string zona, std::string secao)
 {
@@ -8,11 +8,12 @@ Eleitor::Eleitor(std::string titulo, std::string nome, std::string zona, std::st
     this->nome = nome;
     this->zona = zona;
     this->secao = secao;
-
+    ListaEleitores->push_back(this);
 }
 
 Eleitor::~Eleitor()
 {
+    ListaEleitores->remove(this);
 }
 
 std::string Eleitor::getTitulo()
@@ -66,32 +67,18 @@ void Eleitor::lerEleitor(std::vector<Eleitor> *eleitores)
         std::getline(std::cin, nome, ',');
         std::getline(std::cin, zona, ',');
         std::getline(std::cin, secao, '\n');
-
-        if (eleitores->size() == 0)
-        {
-            eleitores->push_back(Eleitor(titulo, nome, zona, secao));
-            eleitoresValidos->push_back(Eleitor(titulo, nome, zona, secao));
-        }
+       
+        if (IsEleitorCadastrado(titulo))
+            std::cout << "Eleitor já cadastrado!" << std::endl;
         else
-        {            
-            if (validarEleitor(titulo))
-            {
-                std::cout << "Eleitor já cadastrado!" << std::endl;
-            }
-            else
-            {
-                eleitores->push_back(Eleitor(titulo, nome, zona, secao));
-                eleitoresValidos->push_back(Eleitor(titulo, nome, zona, secao));
-            }
-        }
+            eleitores->push_back(Eleitor(titulo, nome, zona, secao));
     }
 }
 
-bool validarEleitor(std::string titulo)
+bool IsEleitorCadastrado(std::string titulo)
 {
-
-    for (int i = 0; i < eleitoresValidos->size(); i++)    
-        if (eleitoresValidos->at(i).getTitulo() == titulo)
+    for (int i = 0; i < ListaEleitores->size(); i++)    
+        if (ListaEleitores->at(i).getTitulo() == titulo)
             return true; // eleitor cadastrado retorna true
 
     return false;
@@ -99,6 +86,7 @@ bool validarEleitor(std::string titulo)
 
 void Eleitor::display()
 {
+    std::cout << "Eleitor" << std::endl;
     std::cout << "Titulo: " << this->titulo << std::endl;
     std::cout << "Nome: " << this->nome << std::endl;
     std::cout << "Zona: " << this->zona << std::endl;

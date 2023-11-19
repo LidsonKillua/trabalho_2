@@ -11,7 +11,7 @@ class Eleitor
     public:
         Eleitor(std::string titulo, std::string nome, std::string zona, std::string secao);
         ~Eleitor();
-        static std::vector<Eleitor> *eleitoresValidos;
+        static std::vector<Eleitor> *ListaEleitores;
         std::string getTitulo();
         std::string getNome();
         std::string getZona();
@@ -20,7 +20,7 @@ class Eleitor
         void setNome(std::string nome);
         void setZona(std::string zona);
         void setSecao(std::string secao);
-        static bool validarEleitor(std::string titulo);
+        static bool IsEleitorCadastrado(std::string titulo);
         static void lerEleitor(std::vector<Eleitor> *eleitores);
         virtual void display();
 };

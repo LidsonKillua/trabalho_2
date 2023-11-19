@@ -17,8 +17,6 @@ class Vereador : public Eleitor
         void setPartido(std::string partido);
         void setCidade(std::string cidade);
         void setNumero(std::string numero);
-        static bool validarVereadorEmEleitor(std::string titulo);
-        static void lerVereador(std::vector<Vereador> *vereadores);
         void display();
 };
 #endif
