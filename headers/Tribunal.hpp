@@ -15,6 +15,11 @@ private:
     boolean IsPrefeito(std::string titulo);
     boolean IsVereador(std::string titulo);
 
+    void votarPrefeito();
+    void votarVereador();
+    void relatorioEleicao();
+    void finalizarEleicao();
+
 public:
     // Métodos de CRUD para eleitores
     void criarEleitor(const std::string titulo, const std::string nome, const std::string zona, const std::string secao);

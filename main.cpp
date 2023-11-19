@@ -66,39 +66,42 @@ void LerVarios(){
 int main()
 {
     int op;
+    std::cout << "Bem vindo ao sistema de eleição!" << std::endl;
 
-    std::cout << "1 - Cadastro de eleitores" << std::endl;
-    std::cout << "2 - Cadastro de prefeitos" << std::endl;
-    std::cout << "3 - Cadastro de vereadores" << std::endl;
-    std::cout << "4 - Iniciar Eleição" << std::endl;
-    std::cout << "5 - Cadastrar automaticamente(Testes)" << std::endl;
-    std::cout << "6 - Sair" << std::endl; 
-    std::cout << "Qual operação você deseja fazer?: ";
-    std::cin >> op;
+    while(op != 6){   
+        std::cout << "Escolha uma opção:" << std::endl; 
+        std::cout << "1 - Cadastro de eleitores" << std::endl;
+        std::cout << "2 - Cadastro de prefeitos" << std::endl;
+        std::cout << "3 - Cadastro de vereadores" << std::endl;
+        std::cout << "4 - Iniciar Eleição" << std::endl;
+        std::cout << "5 - Cadastrar automaticamente(Testes)" << std::endl;
+        std::cout << "6 - Sair" << std::endl;
+        std::cin >> op;
 
-    switch(op)
-    {
-    case 1:
-        Eleitor::lerEleitor(&eleitores);
-        break;
-    case 2:
-        Prefeito::lerPrefeito(&prefeitos);
-        break;
-    case 3:
-        Vereador::lerVereador(&vereadores);
-        break;
-    case 4:
-        //Eleitor::votar(&eleitores, &prefeitos, &vereadores, &votosPrefeitos, &votosVereadores);
-        break;
-    case 5:
-        LerVarios();
-        break;
-    case 6:
-        std::cout << "Saindo..." << std::endl;
-        break;
-    default:
-        std::cout << "Opção inválida!" << std::endl;
-        break;
+        switch(op)
+        {
+        case 1:
+            Eleitor::lerEleitor(&eleitores);
+            break;
+        case 2:
+            Prefeito::lerPrefeito(&prefeitos);
+            break;
+        case 3:
+            Vereador::lerVereador(&vereadores);
+            break;
+        case 4:
+            Tribunal::realizarEleicao();
+            break;
+        case 5:
+            LerVarios();
+            break;
+        case 6:
+            std::cout << "Saindo..." << std::endl;
+            break;
+        default:
+            std::cout << "Opção inválida!" << std::endl;
+            break;
+        }   
     }
 
     return 0;

@@ -203,3 +203,154 @@ Tribunal::deletarVereador(std::string titulo){
     }
     std::cout << "Vereador não encontrado!" << std::endl;
 }
+
+Tribunal::realizarEleicao(){
+    std::cout << "Iniciando o processo de eleição..." << std::endl;
+    int op = 1;
+
+    while (op != 0){
+        std::cout << "Escolha uma opção:" << std::endl; 
+        std::cout << "1 - Votar para prefeito" << std::endl;
+        std::cout << "2 - Votar para vereador" << std::endl;
+        std::cout << "3 - Verificar mais votados no momento" << std::endl;
+        std::cout << "0 - Finalizar eleição" << std::endl;
+        std::cin >> op;
+
+        switch (op)
+        {
+        case 1:
+            votarPrefeito();
+            break;
+        case 2:
+            votarVereador();
+            break;
+        case 3:
+            relatorioEleicao();
+            break;        
+        case 0:
+            finalizarEleicao();
+            break;
+        default:
+            std::cout << "Opção inválida!" << std::endl;
+            break;
+        }
+    }
+}
+
+Tribunal::votarPrefeito(){
+    std::string titulo;
+    std::cout << "Digite o título do eleitor: ";
+    std::cin >> titulo;
+
+    if(!IsEleitor(titulo)){
+        std::cerr << "Eleitor não cadastrado!" << std::endl;
+        return;
+    }
+    else if(getEleitor(titulo).IsJaVotouPrefeito()){
+        std::cerr << "Este eleitor já votou para prefeito!" << std::endl;
+        return;
+    }
+
+    std::string numero;
+    std::cout << "Digite o titulo do prefeito em que quer votar: ";
+    std::cin >> numero;
+
+    for(auto prefeito : prefeitos){
+        if(prefeito.gettitulo() == numero){
+            prefeito.setVotos(prefeito.getVotos() + 1);
+            getEleitor(titulo).setJaVotouPrefeito(true);
+            return;
+        }
+    }
+    std::cout << "Prefeito não encontrado!" << std::endl;
+}
+
+Tribunal::votarVereador(){
+    std::string titulo;
+    std::cout << "Digite o título do eleitor: ";
+    std::cin >> titulo;
+
+    if(!IsEleitor(titulo)){
+        std::cerr << "Eleitor não cadastrado!" << std::endl;
+        return;
+    }
+    else if(getEleitor(titulo).IsJaVotouVereador()){
+        std::cerr << "Este eleitor já votou para vereador!" << std::endl;
+        return;
+    }
+
+    std::string numero;
+    std::cout << "Digite o titulo do vereador em que quer votar: ";
+    std::cin >> numero;
+
+    for(auto vereador : vereadores){
+        if(vereador.gettitulo() == numero){
+            vereador.setVotos(vereador.getVotos() + 1);
+            getEleitor(titulo).setJaVotouVereador(true);
+            return;
+        }
+    }
+    std::cout << "Vereador não encontrado!" << std::endl;
+}
+
+Tribunal::relatorioEleicao(){
+    std::cout << "---" << std::endl;
+    std::cout << "Relatório da eleição:" << std::endl;
+    std::cout << "---" << std::endl;
+    
+    std::cout << "3 Prefeitos mais votados:" << std::endl;
+    int qtd = 3;
+
+    // Ordenar prefeitos por votos
+    std::sort(prefeitos.begin(), prefeitos.end(), [](Prefeito a, Prefeito b){
+        return a.getVotos() > b.getVotos();
+    });
+
+
+    for(auto prefeito : prefeitos){
+        if(qtd == 0){
+            break;
+        }
+        std::cout << prefeito.getNome() << " - " << prefeito.getVotos() << " votos" << std::endl;
+        qtd--;
+    }
+
+    std::cout << "15 Vereadores mais votados:" << std::endl;
+
+    // Ordenar vereadores por votos
+    std::sort(vereador.begin(), vereador.end(), [](Vereador a, Vereador b){
+        return a.getVotos() > b.getVotos();
+    });
+
+    qtd = 15;
+
+    for(auto vereador : vereadores){
+        if(qtd == 0){
+            break;
+        }
+        std::cout << vereador.getNome() << " - " << vereador.getVotos() << " votos" << std::endl;
+        qtd--;
+    }
+
+    std::cout << "---" << std::endl;   
+}
+
+Tribunal::finalizarEleicao(){
+    std::cout << "Finalizando eleição..." << std::endl;
+    std::cout << "Contabilizando votos..." << std::endl;
+
+    relatorioEleicao();
+
+    std::cout << "O prefeito eleito é: " << prefeitos[0].getNome() << std::endl;
+
+    std::cout << "Os 10 vereadores eleitos são: " << std::endl;
+    qtd = 10;
+
+    for(auto vereador : vereadores){
+        if(qtd == 0){
+            break;
+        }
+        std::cout << vereador.getNome() << std::endl;
+        qtd--;
+    }    
+}

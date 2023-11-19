@@ -1,19 +1,12 @@
 ﻿#include "../headers/Eleitor.hpp"
 
-std::vector<Eleitor> *ListaEleitores = new std::vector<Eleitor>;
-
-Eleitor::Eleitor(std::string titulo, std::string nome, std::string zona, std::string secao)
+Eleitor::Eleitor(std::string titulo, std::string nome, std::string zona, std::string secao) : 
+    titulo(titulo), nome(nome), zona(zona), secao(secao), JaVotouPrefeito(false), JaVotouVereador(false)
 {
-    this->titulo = titulo;
-    this->nome = nome;
-    this->zona = zona;
-    this->secao = secao;
-    ListaEleitores->push_back(this);
 }
 
 Eleitor::~Eleitor()
 {
-    ListaEleitores->remove(this);
 }
 
 std::string Eleitor::getTitulo()
@@ -36,6 +29,16 @@ std::string Eleitor::getSecao()
     return this->secao;
 }
 
+bool Eleitor::IsJaVotouPrefeito()
+{
+    return this->JaVotouPrefeito;
+}
+
+bool Eleitor::IsJaVotouVereador()
+{
+    return this->JaVotouVereador;
+}
+
 void Eleitor::setTitulo(std::string titulo)
 {
     this->titulo = titulo;
@@ -54,6 +57,16 @@ void Eleitor::setZona(std::string zona)
 void Eleitor::setSecao(std::string secao)
 {
     this->secao = secao;
+}
+
+void Eleitor::setJaVotouPrefeito(bool votou)
+{
+    this->JaVotouPrefeito = votou;
+}
+
+void Eleitor::setJaVotouVereador(bool votou)
+{
+    this->JaVotouVereador = votou;
 }
 
 void Eleitor::lerEleitor(std::vector<Eleitor> *eleitores)
