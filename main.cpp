@@ -9,7 +9,7 @@ int main()
 
     bool rodar = true;
     while(rodar){   
-        std::cout << "Escolha uma opção:" << std::endl; 
+        std::cout << "\nEscolha uma opção:" << std::endl; 
         std::cout << "1 - Cadastro de eleitores" << std::endl;
         std::cout << "2 - Cadastro de prefeitos" << std::endl;
         std::cout << "3 - Cadastro de vereadores" << std::endl;

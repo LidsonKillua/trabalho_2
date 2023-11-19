@@ -1,15 +1,70 @@
-11612,Lele da Silva,2519,1625,PSB,Salvador,219
-42520,Nicolas Santos,640,3122,PP,Curitiba,614
-61393,Pedro das Dores,788,2194,PSC,Coimbra,141
-52309,Lele Ferreira,427,4395,PSB,Curitiba,732
-50333,Nicolas da Silva,4000,3106,PT,São Paulo,1
-57498,João de Jesus,4730,3963,PT,Belo Horizonte,725
-29639,Ellen de Jesus,3602,1544,NOVO,Curitiba,733
-86964,Lidson Oliveira,3664,1102,PSDB,Coimbra,885
-56750,Nicolas Rodrigues,46,3904,PSOL,Brasília,960
-80638,Ellen de Jesus,4094,1849,PSDB,São Paulo,852
-15141,Hugo da Silva,173,2576,PSDB,Rio de Janeiro,389
-14342,Leo das Dores,1261,482,PSC,Ponte Nova,766
-29582,Ellen das Dores,4831,3735,PT,Viçosa,804
-86333,Ellen Santos,3011,1036,PSC,Viçosa,800
-41433,Ellen Lima,3872,1191,NOVO,Salvador,164
+76275,Leo das Dores,1949,1836,PT,Recife,213
+45274,Ricardo Oliveira,1804,3665,PT,Viçosa,640
+74699,Leo Ferreira,406,3928,PSTU,Salvador,650
+13337,Ricardo Santos,1534,1488,PCdoB,Salvador,78
+77750,Ricardo Ferreira,2981,60,PL,Recife,859
+53560,Leo Martins,4072,3360,PT,Vitória,640
+62722,Nicolas Ferreira,4644,1257,PDT,Vitória,887
+89075,Lucas da Silva,58,2899,PT,Ponte Nova,891
+81597,Leo Souza,3678,1053,PSDB,Curitiba,997
+17308,Leo de Jesus,1433,4728,PSOL,Viçosa,656
+27256,Nicolas Pinto,4003,1438,PSOL,Viçosa,885
+98080,Lele das Dores,2325,2766,PT,Recife,23
+77372,Ellen Souza,4439,4108,PCB,Brasília,783
+14240,Ellen Martins,2435,2023,NOVO,Vila Velha,601
+62818,Ricardo Oliveira,3375,4534,PP,Rio de Janeiro,132
+79636,Lucas Souza,2471,2538,PCB,Belo Horizonte,98
+43323,Lucas Santos,3402,4552,PSC,Viçosa,830
+12627,Lucas Rodrigues,2886,1720,PSB,Coimbra,118
+87965,Thierry Pinto,289,1805,PSC,Curitiba,574
+71155,Ricardo Pinto,4862,612,PSTU,Viçosa,783
+26132,Hugo Lima,2033,4991,PSDB,Brasília,943
+53789,Leo Oliveira,4942,4577,PSTU,São Paulo,575
+92490,Marianna Lima,4064,1562,PSC,Brasília,16
+18533,Thierry de Jesus,4610,4571,PL,Belo Horizonte,517
+77899,Pedro Oliveira,4381,3262,PSC,Viçosa,635
+45297,Ricardo Martins,998,2372,PSOL,Rio de Janeiro,671
+52940,Ellen das Dores,4081,3192,NOVO,Salvador,837
+73680,Leo Pereira,650,2468,PSC,Rio de Janeiro,459
+35453,Ellen Santos,3226,2991,PSB,Belo Horizonte,339
+30687,Lele da Silva,1363,3025,PSOL,Coimbra,124
+53657,Lucas Rodrigues,2362,246,PDT,Coimbra,954
+77067,Ellen Martins,1321,1682,PL,Rio de Janeiro,154
+78061,Lucas Ferreira,4868,542,PT,Ponte Nova,777
+49778,Marianna Lima,2141,4992,PSTU,Vila Velha,217
+36140,Leo Souza,1517,1420,NOVO,Vila Velha,328
+19623,Ricardo Rodrigues,2287,1676,PL,Salvador,674
+67289,Leo Santos,2796,4952,PSTU,Salvador,985
+17666,Lele Pinto,2381,1380,PSTU,São Paulo,136
+39926,Ricardo Souza,1509,2607,PSOL,São Paulo,226
+32125,Ricardo das Dores,2296,3994,PT,Belo Horizonte,286
+39006,Lele das Dores,2656,1803,PCB,Curitiba,70
+21081,Thierry das Dores,2522,1818,PSOL,Salvador,628
+75386,Lidson Santos,1112,3399,PT,Recife,958
+97274,Hugo Lima,2199,1740,PP,Curitiba,391
+47484,Lucas Martins,2809,4587,PT,Vila Velha,644
+40413,Ellen Martins,652,3577,PSOL,Brasília,456
+18614,João Ferreira,2755,4749,PL,São Paulo,632
+53757,Pedro Oliveira,800,3681,PSB,Curitiba,759
+95150,Ellen Lima,2356,2700,PSB,São Paulo,236
+62523,Lidson Ferreira,404,986,PSTU,Salvador,952
+26547,Lucas de Jesus,581,2840,PP,Rio de Janeiro,275
+80022,Thierry Souza,3003,2320,NOVO,Viçosa,371
+37222,João Souza,4501,4909,PSTU,Curitiba,446
+39024,Thierry da Silva,1096,1453,PSC,Ponte Nova,154
+48637,Ricardo Oliveira,3945,132,PCdoB,Belo Horizonte,488
+96086,Thierry Souza,2901,2353,PDT,Salvador,628
+84663,Lele Pereira,568,2639,PSC,Curitiba,701
+59613,Pedro Pereira,4373,2573,PCB,São Paulo,413
+71209,Marianna Santos,3570,2473,PP,Ponte Nova,131
+28591,Ricardo Rodrigues,3753,4563,PSTU,Ponte Nova,295
+53636,Leo Rodrigues,3166,1719,PP,Coimbra,437
+38422,Lele Oliveira,1005,4504,NOVO,Rio de Janeiro,408
+89350,João Ferreira,1142,4000,PDT,Viçosa,447
+47697,Pedro de Jesus,3465,4642,PL,Viçosa,119
+25387,Ellen Santos,2608,1904,PSB,São Paulo,20
+59122,Lele Santos,4605,3968,PCB,Salvador,933
+86775,Leo Ferreira,1183,1157,PSC,Belo Horizonte,78
+98285,Leo de Jesus,2690,558,PSB,Ponte Nova,957
+59556,Ricardo Oliveira,4447,4014,PT,Recife,589
+59252,Leo Martins,729,4201,PCB,Salvador,114

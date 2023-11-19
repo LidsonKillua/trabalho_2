@@ -21,6 +21,6 @@ def generate_mayor(n):
 
 vereador = generate_mayor(70)
 
-with open("vereador.txt", "w") as f:
+with open("geradores/vereador.txt", "w") as f:
   for pessoa in vereador:
     f.write("{},{},{},{},{},{},{}\n".format(*pessoa))

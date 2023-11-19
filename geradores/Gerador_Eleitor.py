@@ -17,6 +17,6 @@ def generate_voters(n):
 
 eleitor = generate_voters(2000)
 
-with open("eleitor.txt", "w") as f:
+with open("geradores/eleitor.txt", "w") as f:
   for pessoa in eleitor:
     f.write("{},{},{},{}\n".format(*pessoa))

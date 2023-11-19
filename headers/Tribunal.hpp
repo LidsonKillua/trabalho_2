@@ -28,6 +28,7 @@ private:
     void atualizarEleitor(const std::string titulo, const std::string nome, const std::string zona, const std::string secao);
     void deletarEleitor(std::string titulo);
     void listarEleitores();
+    void listarEleitoresNaoCandidatos();
 
     // Métodos de CRUD para prefeitos
     void criarPrefeito(const std::string titulo, const std::string nome, const std::string zona, 

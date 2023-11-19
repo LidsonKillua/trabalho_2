@@ -21,7 +21,7 @@ def generate_mayor(n):
 
 prefeito = generate_mayor(5)
 
-with open("prefeito.txt", "w") as f:
+with open("geradores/prefeito.txt", "w") as f:
   for pessoa in prefeito:
     f.write("{},{},{},{},{},{},{}\n".format(*pessoa))
 # titulo, num, nome, zona, secao, partido, cidade 

@@ -13,8 +13,8 @@ Tribunal::~Tribunal()
 }
 
 bool Tribunal::IsEleitor(std::string titulo){
-    for(auto eleitor : eleitores){
-        if(eleitor.getTitulo() == titulo){
+    for(int i = 0; i < eleitores.size(); i++){
+        if(eleitores[i].getTitulo() == titulo){
             return true;
         }
     }
@@ -22,18 +22,19 @@ bool Tribunal::IsEleitor(std::string titulo){
 }
 
 Eleitor Tribunal::getEleitor(std::string titulo){
-    for(auto eleitor : eleitores){
-        if(eleitor.getTitulo() == titulo){
-            return eleitor;
+    for(int i = 0; i < eleitores.size(); i++){
+        if(eleitores[i].getTitulo() == titulo){
+            return eleitores[i];
         }
     }
     std::cout << "Eleitor não encontrado e criado" << std::endl;
-    return Eleitor(titulo, "", "", "");
+    criarEleitor(titulo, "", "", "");
+    return getEleitor(titulo);
 }
 
 bool Tribunal::IsPrefeito(std::string titulo){
-    for(auto prefeito : prefeitos){
-        if(prefeito.getTitulo() == titulo){
+    for(int i = 0; i < prefeitos.size(); i++){
+        if(prefeitos[i].getTitulo() == titulo){
             return true;
         }
     }
@@ -41,8 +42,8 @@ bool Tribunal::IsPrefeito(std::string titulo){
 }
 
 bool Tribunal::IsVereador(std::string titulo){
-    for(auto vereador : vereadores){
-        if(vereador.getTitulo() == titulo){
+    for(int i = 0; i < vereadores.size(); i++){
+        if(vereadores[i].getTitulo() == titulo){
             return true;
         }
     }
@@ -58,9 +59,9 @@ void Tribunal::criarEleitor(const std::string titulo, const std::string nome, co
 }
 
 void Tribunal::lerEleitor(std::string titulo){
-    for(auto eleitor : eleitores){
-        if(eleitor.getTitulo() == titulo){
-            eleitor.display();
+    for(int i = 0; i < eleitores.size(); i++){
+        if(eleitores[i].getTitulo() == titulo){
+            eleitores[i].display();
             return;
         }
     }
@@ -68,11 +69,11 @@ void Tribunal::lerEleitor(std::string titulo){
 }
 
 void Tribunal::atualizarEleitor(const std::string titulo, const std::string nome, const std::string zona, const std::string secao){
-    for(auto eleitor : eleitores){
-        if(eleitor.getTitulo() == titulo){
-            eleitor.setNome(nome);
-            eleitor.setZona(zona);
-            eleitor.setSecao(secao);
+    for(int i = 0; i < eleitores.size(); i++){
+        if(eleitores[i].getTitulo() == titulo){
+            eleitores[i].setNome(nome);
+            eleitores[i].setZona(zona);
+            eleitores[i].setSecao(secao);
             return;
         }
     }
@@ -110,9 +111,9 @@ void Tribunal::criarPrefeito(const Eleitor& eleitor, const std::string partido, 
 }
 
 void Tribunal::lerPrefeito(std::string titulo){
-    for(auto prefeito : prefeitos){
-        if(prefeito.getTitulo() == titulo){
-            prefeito.display();
+    for(int i = 0; i < prefeitos.size(); i++){
+        if(prefeitos[i].getTitulo() == titulo){
+            prefeitos[i].display();
             return;
         }
     }
@@ -120,14 +121,14 @@ void Tribunal::lerPrefeito(std::string titulo){
 }
 
 void Tribunal::atualizarPrefeito(std::string titulo, const std::string nome, const std::string zona, const std::string secao, const std::string partido, const std::string cidade, const std::string numero){
-    for(auto prefeito : prefeitos){
-        if(prefeito.getTitulo() == titulo){
-            prefeito.setNome(nome);
-            prefeito.setZona(zona);
-            prefeito.setSecao(secao);
-            prefeito.setPartido(partido);
-            prefeito.setCidade(cidade);
-            prefeito.setNumero(numero);
+    for(int i = 0; i < prefeitos.size(); i++){
+        if(prefeitos[i].getTitulo() == titulo){
+            prefeitos[i].setNome(nome);
+            prefeitos[i].setZona(zona);
+            prefeitos[i].setSecao(secao);
+            prefeitos[i].setPartido(partido);
+            prefeitos[i].setCidade(cidade);
+            prefeitos[i].setNumero(numero);
             return;
         }
     }
@@ -165,9 +166,9 @@ void Tribunal::criarVereador(const Eleitor& eleitor, const std::string partido, 
 }
 
 void Tribunal::lerVereador(std::string titulo){
-    for(auto vereador : vereadores){
-        if(vereador.getTitulo() == titulo){
-            vereador.display();
+    for(int i = 0; i < vereadores.size(); i++){
+        if(vereadores[i].getTitulo() == titulo){
+            vereadores[i].display();
             return;
         }
     }
@@ -175,14 +176,14 @@ void Tribunal::lerVereador(std::string titulo){
 }
 
 void Tribunal::atualizarVereador(std::string titulo, const std::string nome, const std::string zona, const std::string secao, const std::string partido, const std::string cidade, const std::string numero){
-    for(auto vereador : vereadores){
-        if(vereador.getTitulo() == titulo){
-            vereador.setNome(nome);
-            vereador.setZona(zona);
-            vereador.setSecao(secao);
-            vereador.setPartido(partido);
-            vereador.setCidade(cidade);
-            vereador.setNumero(numero);
+    for(int i = 0; i < vereadores.size(); i++){
+        if(vereadores[i].getTitulo() == titulo){
+            vereadores[i].setNome(nome);
+            vereadores[i].setZona(zona);
+            vereadores[i].setSecao(secao);
+            vereadores[i].setPartido(partido);
+            vereadores[i].setCidade(cidade);
+            vereadores[i].setNumero(numero);
             return;
         }
     }
@@ -197,39 +198,6 @@ void Tribunal::deletarVereador(std::string titulo){
         }
     }
     std::cout << "Vereador não encontrado!" << std::endl;
-}
-
-void Tribunal::realizarEleicao(){
-    std::cout << "Iniciando o processo de eleição..." << std::endl;
-    int op = 1;
-
-    while (op != 0){
-        std::cout << "Escolha uma opção:" << std::endl; 
-        std::cout << "1 - Votar para prefeito" << std::endl;
-        std::cout << "2 - Votar para vereador" << std::endl;
-        std::cout << "3 - Verificar mais votados no momento" << std::endl;
-        std::cout << "0 - Finalizar eleição" << std::endl;
-        std::cin >> op;
-
-        switch (op)
-        {
-        case 1:
-            votarPrefeito();
-            break;
-        case 2:
-            votarVereador();
-            break;
-        case 3:
-            relatorioEleicao();
-            break;        
-        case 0:
-            finalizarEleicao();
-            break;
-        default:
-            std::cout << "Opção inválida!" << std::endl;
-            break;
-        }
-    }
 }
 
 void Tribunal::votarPrefeito(){
@@ -250,9 +218,9 @@ void Tribunal::votarPrefeito(){
     std::cout << "Digite o numero do prefeito em que quer votar: ";
     std::cin >> numero;
 
-    for(auto prefeito : prefeitos){
-        if(prefeito.getNumero() == numero){
-            prefeito.ReceberVoto();
+    for(int i = 0; i < prefeitos.size(); i++){
+        if(prefeitos[i].getNumero() == numero){
+            prefeitos[i].ReceberVoto();
             getEleitor(titulo).setJaVotouPrefeito(true);
             return;
         }
@@ -278,9 +246,9 @@ void Tribunal::votarVereador(){
     std::cout << "Digite o numero do vereador em que quer votar: ";
     std::cin >> numero;
 
-    for(auto vereador : vereadores){
-        if(vereador.getNumero() == numero){
-            vereador.ReceberVoto();
+    for(int i = 0; i < vereadores.size(); i++){
+        if(vereadores[i].getNumero() == numero){
+            vereadores[i].ReceberVoto();
             getEleitor(titulo).setJaVotouVereador(true);
             return;
         }
@@ -301,11 +269,11 @@ void Tribunal::relatorioEleicao(){
         return a.getVotos() > b.getVotos();
     });
 
-    for(auto prefeito : prefeitos){
+    for(int i = 0; i < prefeitos.size(); i++){
         if(qtd == 0){
             break;
         }
-        std::cout << prefeito.getNumero() << " - " << prefeito.getNome() << " - " << prefeito.getVotos() << " votos" << std::endl;
+        std::cout << prefeitos[i].getNumero() << " - " << prefeitos[i].getNome() << " - " << prefeitos[i].getVotos() << " votos" << std::endl;
         qtd--;
     }
 
@@ -318,11 +286,11 @@ void Tribunal::relatorioEleicao(){
 
     qtd = 15;
 
-    for(auto vereador : vereadores){
+    for(int i = 0; i < vereadores.size(); i++){
         if(qtd == 0){
             break;
         }
-        std::cout << vereador.getNumero() << " - " << vereador.getNome() << " - " << vereador.getVotos() << " votos" << std::endl;
+        std::cout << vereadores[i].getNumero() << " - " << vereadores[i].getNome() << " - " << vereadores[i].getVotos() << " votos" << std::endl;
         qtd--;
     }
 
@@ -335,48 +303,69 @@ void Tribunal::finalizarEleicao(){
 
     relatorioEleicao();
 
-    std::cout << "O prefeito eleito é: " << prefeitos[0].getNome() << std::endl;
+    // Ordenar prefeitos por votos
+    std::sort(prefeitos.begin(), prefeitos.end(), [](Prefeito a, Prefeito b){
+        return a.getVotos() > b.getVotos();
+    });
 
-    std::cout << "Os 10 vereadores eleitos são: " << std::endl;
+    std::cout << "\nO prefeito eleito é: " << prefeitos[0].getNome() << " com " << prefeitos[0].getVotos() << " votos." << std::endl;
+
+    std::cout << "Os 10 vereadores eleitos são: \n" << std::endl;
     int qtd = 10;
 
-    for(auto vereador : vereadores){
+    // Ordenar vereadores por votos
+    std::sort(vereadores.begin(), vereadores.end(), [](Vereador a, Vereador b){
+        return a.getVotos() > b.getVotos();
+    });
+
+    for(int i = 0; i < vereadores.size(); i++){
         if(qtd == 0){
             break;
         }
-        std::cout << vereador.getNome() << std::endl;
+        std::cout << vereadores[i].getNome() << " com " << vereadores[i].getVotos() << " votos." << std::endl;
         qtd--;
     }    
+    std::cout << std::endl;
 }
 
 void Tribunal::listarEleitores(){
     std::cout << "Eleitores cadastrados:" << std::endl;
 
-    for(auto eleitor : eleitores){
-        eleitor.display();
+    for(int i = 0; i < eleitores.size(); i++){
+        eleitores[i].display();
+    }
+}
+
+void Tribunal::listarEleitoresNaoCandidatos(){
+    std::cout << "Eleitores não candidatos cadastrados:" << std::endl;
+
+    for(int i = 0; i < eleitores.size(); i++){
+        if(!IsPrefeito(eleitores[i].getTitulo()) && !IsVereador(eleitores[i].getTitulo())){
+            eleitores[i].display();
+        }
     }
 }
 
 void Tribunal::listarPrefeitos(){
     std::cout << "Candidatos a Prefeito cadastrados:" << std::endl;
 
-    for(auto prefeito : prefeitos){
-        prefeito.display();
+    for(int i = 0; i < prefeitos.size(); i++){
+        prefeitos[i].display();
     }
 }
 
 void Tribunal::listarVereadores(){
     std::cout << "Candidatos a Vereador cadastrados:" << std::endl;
 
-    for(auto vereador : vereadores){
-        vereador.display();
+    for(int i = 0; i < vereadores.size(); i++){
+        vereadores[i].display();
     }
 }
 
 void Tribunal::listarTodos(){
     listarPrefeitos();
     listarVereadores();
-    listarEleitores();
+    listarEleitoresNaoCandidatos();
 }
 
 void Tribunal::CadastroEleitor(){
@@ -453,7 +442,7 @@ void Tribunal::CadastroPrefeito(){
     int op = 1;
 
     while(op != 0){
-        std::cout << "Escolha uma opção:" << std::endl;
+        std::cout << "\nEscolha uma opção:" << std::endl;
         std::cout << "1 - Cadastrar prefeito" << std::endl;
         std::cout << "2 - Ler prefeito" << std::endl;
         std::cout << "3 - Atualizar prefeito" << std::endl;
@@ -533,7 +522,7 @@ void Tribunal::CadastroVereador(){
     int op = 1;
 
     while(op != 0){
-        std::cout << "Escolha uma opção:" << std::endl;
+        std::cout << "\nEscolha uma opção:" << std::endl;
         std::cout << "1 - Cadastrar vereador" << std::endl;
         std::cout << "2 - Ler vereador" << std::endl;
         std::cout << "3 - Atualizar vereador" << std::endl;
@@ -679,4 +668,95 @@ void Tribunal::LerVarios(){
     }
 
     arquivo.close();
+}
+
+void Tribunal::EleicaoAutomatica(){
+    std::cout << "Iniciando eleição automática..." << std::endl;
+    std::cout << "Lendo votos para prefeito..." << std::endl;
+
+    std::ifstream arquivo("geradores/votosPrefeito.txt");
+    if (!arquivo.is_open()){
+        std::cerr << "Erro ao abrir arquivo de votos para prefeito!" << std::endl;
+        return;
+    }
+
+    std::string linha, titulo, numero;
+
+    while(getline(arquivo, linha)){
+        std::stringstream ss(linha);
+        getline(ss, titulo, ',');
+        getline(ss, numero, '\n');
+
+        for(int i = 0; i < prefeitos.size(); i++){
+            if(prefeitos[i].getNumero() == numero){
+                prefeitos[i].ReceberVoto();
+                getEleitor(titulo).setJaVotouPrefeito(true);
+                break;
+            }
+        }
+    }
+
+    arquivo.close();
+
+    std::cout << "Lendo votos para vereador..." << std::endl;
+
+    arquivo.open("geradores/votosVereador.txt");
+    if (!arquivo.is_open()){
+        std::cerr << "Erro ao abrir arquivo de votos para vereador!" << std::endl;
+        return;
+    }
+
+    while(getline(arquivo, linha)){
+        std::stringstream ss(linha);
+        getline(ss, titulo, ',');
+        getline(ss, numero, '\n');
+
+        for(int i = 0; i < vereadores.size(); i++){
+            if(vereadores[i].getNumero() == numero){
+                vereadores[i].ReceberVoto();
+                getEleitor(titulo).setJaVotouVereador(true);
+                break;
+            }
+        }
+    }
+
+    arquivo.close();
+    std::cout << "Finalizando eleição automática..." << std::endl;
+}
+
+void Tribunal::realizarEleicao(){
+    std::cout << "Iniciando o processo de eleição..." << std::endl;
+    int op = 1;
+
+    while (op != 0){
+        std::cout << "\nEscolha uma opção:" << std::endl; 
+        std::cout << "1 - Votar para prefeito" << std::endl;
+        std::cout << "2 - Votar para vereador" << std::endl;
+        std::cout << "3 - Verificar mais votados no momento" << std::endl;
+        std::cout << "4 - Eleição automática" << std::endl;
+        std::cout << "0 - Finalizar eleição" << std::endl;
+        std::cin >> op;
+
+        switch (op)
+        {
+        case 1:
+            votarPrefeito();
+            break;
+        case 2:
+            votarVereador();
+            break;
+        case 3:
+            relatorioEleicao();
+            break;        
+        case 4:
+            EleicaoAutomatica();
+            break;        
+        case 0:
+            finalizarEleicao();
+            break;
+        default:
+            std::cout << "Opção inválida!" << std::endl;
+            break;
+        }
+    }
 }

@@ -1,12 +1,2000 @@
-62732,Lucas Santos,2944,3869
-93875,Leo Souza,2663,4251
-53103,Ricardo Pinto,4767,381
-95970,Ellen Oliveira,3527,382
-13282,Lidson Oliveira,3757,1243
-29070,Leo Pereira,1047,1216
-61560,Hugo Santos,3703,2006
-93964,Leo das Dores,881,4585
-20984,João das Dores,2108,1864
-19072,Lidson Pinto,2709,4172
-11766,Lele Martins,1470,2739
-17765,João Souza,75,2455
+45265,Ellen Oliveira,2820,297
+42815,Ricardo Martins,4325,3926
+69695,João Martins,1360,2077
+49788,Nicolas Santos,1731,1244
+48644,Marianna Oliveira,420,4839
+24083,Lidson de Jesus,4992,3166
+37610,Thierry Lima,1031,1951
+24508,Marianna da Silva,1936,4511
+63854,Lidson Lima,1465,1623
+93227,Ricardo Lima,1156,2420
+91105,Marianna Rodrigues,4922,4450
+12245,Hugo Souza,2808,3510
+14184,Thierry Pinto,3374,2480
+20034,João da Silva,2465,2063
+28273,Leo de Jesus,734,479
+31547,Nicolas Lima,2679,1274
+41755,Lidson da Silva,4204,1335
+21042,Lucas Pinto,2626,2991
+65776,Hugo das Dores,285,2267
+56670,Pedro Lima,4070,262
+78710,Nicolas de Jesus,2138,4880
+70940,Lidson Rodrigues,3410,1355
+69208,Nicolas Ferreira,919,3815
+53923,Lucas Lima,587,735
+30943,Ellen Rodrigues,3868,1062
+96595,Lidson Santos,3075,4781
+44230,Lele Santos,1508,2367
+63436,Ricardo Ferreira,3449,1698
+52457,Hugo da Silva,4903,2901
+52323,Ricardo da Silva,3587,4158
+51506,Ellen Pereira,4573,4810
+40992,Leo da Silva,137,1429
+43810,João Pereira,3703,309
+41940,Lucas Souza,95,1331
+61590,Thierry das Dores,4850,2809
+86507,Hugo Martins,3601,3738
+97548,Lucas Lima,3329,3286
+76194,Pedro Martins,3688,2173
+91740,Marianna de Jesus,95,2050
+38037,Ellen Pereira,2579,1008
+34726,Lele Oliveira,2723,4465
+92005,João Oliveira,847,4511
+64729,Ricardo Souza,1800,313
+23936,Ricardo Rodrigues,4953,1013
+43738,Ricardo Souza,4617,960
+98964,Ellen Ferreira,357,489
+85722,Pedro Oliveira,4910,1777
+40528,Ellen de Jesus,2494,2410
+67537,Ricardo Santos,3226,680
+75500,Leo das Dores,1887,455
+90527,Hugo das Dores,2773,940
+32730,Hugo Santos,3660,439
+84132,Pedro Oliveira,4633,4044
+27260,Thierry das Dores,2049,326
+76405,Ricardo Oliveira,3757,1335
+29726,Ricardo Oliveira,896,2897
+60180,Ricardo Lima,1590,1296
+86671,Lele de Jesus,3163,577
+64795,Ellen Ferreira,4097,1188
+91696,Marianna Pereira,4969,314
+66767,Ellen Lima,4074,4342
+41416,Thierry Santos,2228,2464
+86435,Nicolas Ferreira,2025,3736
+19815,Lucas de Jesus,2196,1678
+21786,Leo Santos,4128,4445
+67889,Hugo das Dores,3222,683
+73670,Ricardo Rodrigues,2539,1595
+62363,Nicolas de Jesus,1646,2635
+11823,Lidson Santos,875,1881
+40263,Ellen Souza,3085,2110
+15051,Hugo Martins,3310,4580
+68420,Lucas da Silva,1367,2485
+76928,Ellen Santos,1753,4527
+56894,Ricardo das Dores,4521,943
+36378,Marianna Oliveira,785,3824
+69316,Ellen das Dores,4149,459
+93327,Pedro Pinto,549,736
+77832,Leo Lima,3522,3249
+85765,Nicolas Souza,2406,2141
+43910,Ricardo Lima,2252,3141
+60754,João de Jesus,2944,12
+11451,Ricardo da Silva,4719,3440
+41444,Leo das Dores,1175,3175
+85526,Leo Pinto,4595,3255
+38608,João Rodrigues,2184,2353
+91661,Lucas Pereira,4936,3274
+67466,Leo Rodrigues,2341,1534
+95498,Ellen da Silva,2009,3647
+89983,Lidson Martins,2578,243
+30613,Lucas Lima,1411,3738
+29393,Marianna das Dores,4415,737
+30841,Lidson Santos,3865,575
+54291,Pedro Souza,3918,1319
+58425,Hugo da Silva,176,2332
+23839,Hugo Pinto,4936,1963
+63724,Lucas Santos,1324,2143
+71759,Hugo Pereira,1970,4066
+28037,Marianna Souza,2783,2484
+69529,Thierry da Silva,4043,199
+68840,Lele Souza,1472,4223
+72363,Marianna Souza,1495,2485
+43262,Nicolas Santos,3423,899
+94243,Leo de Jesus,3756,3471
+47036,Ricardo Oliveira,4413,4756
+97784,Thierry Lima,3388,2578
+87180,Lele Martins,3844,109
+16700,Pedro Rodrigues,3519,993
+45913,Hugo Martins,1006,673
+88565,Leo Santos,1302,3838
+12923,Lele da Silva,1889,994
+96680,Lele Oliveira,1469,2508
+92848,Ellen Rodrigues,212,674
+46993,Leo Rodrigues,3867,2039
+36038,Marianna das Dores,2751,2393
+77863,Nicolas Rodrigues,4431,1654
+85624,Lucas Pinto,2884,596
+22842,Lucas Pereira,1835,2566
+33522,Ellen da Silva,2602,804
+58637,Ellen Santos,751,2070
+32229,Ellen Santos,3350,3213
+23075,Marianna Pinto,274,3459
+13236,Hugo Pereira,2556,4203
+38971,Nicolas Santos,4350,142
+56570,Hugo Santos,4899,4632
+26852,Ellen Lima,878,3062
+98868,Marianna Rodrigues,4205,323
+55784,Lucas Martins,1060,1398
+38811,João Ferreira,180,1854
+26528,Ellen das Dores,3019,3382
+49498,Lidson Martins,4062,2644
+24803,Lidson Souza,1019,514
+52966,João Souza,846,2355
+38639,João da Silva,904,1164
+83278,Nicolas Ferreira,1073,989
+78471,Nicolas Santos,4178,9
+77525,Nicolas Ferreira,451,3908
+13265,Ricardo Rodrigues,3113,3478
+23118,Marianna Souza,4245,4532
+17657,Lele das Dores,3533,111
+92183,João de Jesus,2222,2734
+25707,Leo Ferreira,2722,3144
+90217,Hugo Ferreira,3398,2327
+68445,Marianna Oliveira,1752,2934
+59402,Lele Pereira,362,3666
+43469,Lidson Souza,1749,3782
+47499,Nicolas Martins,218,899
+83868,Lele Pereira,3735,3080
+31443,Nicolas Martins,903,3434
+31995,João Ferreira,72,4620
+58296,Marianna da Silva,4122,4397
+54591,Lele de Jesus,3472,1940
+53177,Nicolas das Dores,1105,3883
+61400,Lele Pinto,1415,4104
+47737,Nicolas Souza,3994,4833
+58279,Pedro Santos,4151,1870
+52275,Lidson de Jesus,4088,3663
+41399,Marianna de Jesus,885,4800
+10921,Ellen Rodrigues,1226,4938
+52106,Lele das Dores,1443,3384
+28689,Thierry Oliveira,1095,4220
+94991,Lucas da Silva,901,1081
+49010,Thierry das Dores,2728,4
+68238,Ricardo das Dores,1343,3343
+79591,João de Jesus,1426,2293
+10184,Pedro Souza,2660,963
+99822,Leo Santos,4455,1162
+34837,Ricardo Souza,1664,3848
+59799,Ricardo da Silva,1297,1020
+65535,Marianna Pinto,483,4895
+56910,Lucas das Dores,32,1326
+86689,Ricardo Santos,1153,912
+63059,Nicolas Pereira,2974,1582
+47003,Ellen das Dores,1665,3525
+21408,Ricardo Oliveira,3242,1253
+49309,João Rodrigues,1781,2164
+32718,João das Dores,1987,4672
+66212,Hugo de Jesus,918,3292
+57445,Lele Rodrigues,3451,2431
+13663,Leo Pereira,1344,3010
+53808,Lucas Santos,3146,4768
+48550,João Santos,270,965
+70980,Pedro Ferreira,4322,113
+24211,Pedro Rodrigues,2615,2131
+58956,João Lima,2497,3436
+20329,Lele Ferreira,2450,3436
+48066,Hugo de Jesus,846,2966
+83903,Hugo Lima,2506,3489
+25338,Lidson Ferreira,2590,360
+57588,Leo Oliveira,4240,3929
+74961,Leo Souza,3690,2048
+68076,Thierry Pereira,4530,13
+21619,Lele das Dores,4601,514
+92989,Hugo Pereira,675,4935
+24959,Nicolas Martins,4592,1152
+77759,Thierry de Jesus,2459,1504
+49484,Hugo Pinto,4821,2153
+63121,Lucas Martins,147,1937
+80034,Lele Pinto,3700,101
+46645,Lele Martins,929,2343
+91025,Lucas Souza,2692,1105
+53883,Lucas Santos,1310,2530
+63058,Lele Pinto,4836,1684
+42130,Thierry das Dores,536,2596
+93877,Marianna Pinto,3823,2090
+41525,Lele Lima,3068,3837
+56821,Marianna Ferreira,4081,4451
+22068,Ellen Martins,4083,1567
+38659,Lele Martins,446,1405
+55713,Marianna Santos,956,2430
+29869,Thierry Souza,3757,2361
+69912,Hugo Pereira,4307,559
+84352,Thierry de Jesus,4222,3669
+72764,Pedro das Dores,1157,4639
+78544,Ellen Pereira,46,4180
+71099,Lidson Santos,4520,4036
+35582,João Rodrigues,4810,1447
+66013,Thierry Martins,3421,1498
+89308,Lele Oliveira,3053,2032
+82004,Nicolas Souza,4562,2819
+93327,Leo Rodrigues,3834,576
+11752,Thierry Pereira,1689,181
+35452,João Pereira,994,1747
+61169,Marianna Oliveira,612,2530
+68680,Ellen Pereira,4408,4630
+86059,Ricardo Lima,3649,4940
+16336,Leo Martins,4675,282
+20962,Hugo das Dores,1876,3283
+68099,Lucas Ferreira,3065,11
+63514,Lucas Pinto,3020,135
+29192,João Santos,2278,2915
+92876,Nicolas Souza,1730,4738
+22238,Pedro Rodrigues,1771,3123
+72109,João Santos,541,1424
+73340,Hugo Souza,3706,2375
+91440,Ellen de Jesus,1524,3639
+37416,Marianna Lima,121,3556
+45014,Ellen Oliveira,255,2614
+32385,Lele Pinto,811,804
+47579,Thierry Rodrigues,4131,3788
+62902,Pedro Ferreira,910,2453
+32489,Marianna da Silva,2372,2087
+25804,Marianna Pereira,1190,1589
+49355,Ellen Santos,4003,2501
+57286,Marianna Oliveira,2988,4089
+11522,Hugo Martins,743,2065
+24640,Ricardo da Silva,3716,5
+51910,Ricardo Martins,1600,2168
+47673,Pedro Lima,1227,726
+15722,Lele Rodrigues,2681,2758
+27807,Hugo Martins,3867,4616
+37960,Marianna Santos,3967,3839
+78213,Leo Oliveira,321,232
+41404,Leo Ferreira,4300,4976
+32196,Ricardo da Silva,3409,2872
+66943,Ellen Oliveira,3050,4855
+88351,Ellen Oliveira,1407,792
+21221,João Oliveira,3998,4809
+97529,Marianna Santos,1654,4470
+53614,João de Jesus,429,2232
+14788,Ellen das Dores,1413,241
+47836,Lidson da Silva,2741,2917
+10456,Hugo Pinto,1021,3820
+97617,Pedro Pinto,2739,2648
+73270,Hugo Santos,86,1804
+74790,Lele Rodrigues,4365,33
+30817,Ricardo Pinto,3508,4922
+85284,Ricardo Santos,1319,1128
+43292,Marianna Souza,1060,4734
+73621,Nicolas Martins,1559,1377
+95884,Ricardo da Silva,1918,339
+59023,João Souza,690,58
+30595,Marianna da Silva,184,2403
+23972,Nicolas Ferreira,4196,3695
+37610,Lele Souza,1369,2955
+60622,Hugo da Silva,1603,846
+87273,Marianna das Dores,1948,174
+34499,Ellen Lima,4632,2755
+40771,Ellen Martins,3513,4472
+21338,Ricardo Oliveira,4761,4377
+69790,Marianna da Silva,3316,423
+84870,Pedro das Dores,3228,4385
+71711,Nicolas Ferreira,4244,3329
+82208,Marianna Pinto,4771,1784
+62977,Lucas Lima,4850,1833
+88442,Lucas Santos,3633,3934
+87204,Thierry Ferreira,2697,2668
+92721,Ricardo Santos,1441,477
+29746,Thierry Pereira,3435,4502
+49295,Thierry das Dores,27,2979
+28758,Pedro Pinto,4730,2099
+98581,Lele Pinto,3091,4373
+48685,Marianna de Jesus,736,1361
+16764,Lidson de Jesus,424,1365
+96922,Nicolas Martins,4569,740
+29615,Lidson Pinto,2062,2943
+56221,Lidson Martins,852,902
+75157,Pedro das Dores,4265,4392
+48786,Nicolas Ferreira,4408,1810
+88971,Ricardo de Jesus,3889,4240
+96974,Ricardo Rodrigues,4101,3692
+44725,Lucas Lima,4837,738
+18912,Marianna Souza,4426,4006
+53083,Ellen Rodrigues,3348,3686
+24663,Marianna Rodrigues,2475,1344
+92437,Hugo Pereira,4926,3796
+28418,Ellen da Silva,3542,3261
+23535,Marianna Oliveira,2516,3708
+11097,Ellen Souza,2687,1947
+33239,Lucas Oliveira,2461,1476
+63640,Hugo Martins,4814,1710
+49724,Marianna Souza,3448,2002
+89065,Ellen Rodrigues,4266,1901
+90907,Ricardo de Jesus,3463,2328
+80847,Lele Oliveira,3231,4081
+13998,Lidson Pinto,2204,3585
+41369,Pedro Ferreira,1250,2735
+18539,João Rodrigues,2444,2004
+95997,João da Silva,3969,1478
+13343,João das Dores,942,3590
+23374,Hugo Pereira,3726,3347
+76185,Hugo das Dores,3916,2873
+61997,Nicolas de Jesus,1824,679
+48626,Hugo Rodrigues,7,4719
+36254,Thierry Oliveira,2952,3531
+76677,Marianna Oliveira,2898,3076
+54043,Ellen Pereira,2597,3688
+32099,João Rodrigues,4487,4612
+82657,Nicolas Oliveira,832,2215
+24931,Leo da Silva,4226,2425
+40937,Lele Oliveira,260,953
+37497,Lele Pinto,2464,1553
+53290,Leo de Jesus,1525,3455
+52430,Lele Souza,1908,2233
+21245,João Lima,2112,2531
+53917,Marianna Pinto,4160,4751
+45729,Ricardo Pereira,4855,3630
+63939,Lidson Oliveira,2440,2394
+40027,Ricardo Santos,4882,4279
+20662,Leo Santos,1620,3624
+19474,Ricardo Souza,1956,4174
+12084,Lidson Oliveira,379,1674
+34138,Marianna Oliveira,4923,437
+78571,Lidson de Jesus,2092,986
+73225,Pedro Pinto,170,4131
+18055,Marianna Pinto,913,3351
+13975,Marianna Oliveira,685,1812
+24966,Hugo Oliveira,3843,1799
+92160,Lidson de Jesus,1031,2781
+60341,João Lima,699,1973
+38703,Hugo Pinto,2225,3882
+49111,Marianna Santos,4847,4328
+99433,Nicolas Pereira,2643,4852
+45758,João da Silva,3229,3217
+75219,Leo Souza,1110,3183
+54690,Pedro Oliveira,4064,2187
+90127,Lidson Santos,2322,3022
+95841,Ricardo Martins,2087,3030
+85211,Lucas Pinto,4622,4335
+32315,Marianna Lima,3989,1334
+31155,Marianna das Dores,4768,3210
+56888,Marianna das Dores,130,3439
+60801,Pedro Pereira,3466,3292
+23999,Lucas Souza,1273,141
+15205,Marianna Ferreira,2219,4106
+48034,Lidson Martins,1830,2060
+81957,Ellen Ferreira,1515,3075
+78784,Leo da Silva,4964,2704
+15075,Thierry Santos,4109,2912
+66483,Hugo Oliveira,2928,2947
+94150,Ricardo Souza,2855,2810
+30349,João da Silva,86,4354
+46267,Thierry Rodrigues,2303,1146
+23470,João Santos,2333,1723
+20060,João Santos,4851,4290
+64439,Pedro Ferreira,4591,4106
+93075,João Santos,877,2241
+38217,Lucas Oliveira,4354,1332
+23062,Lele de Jesus,4381,3596
+99788,Ricardo Oliveira,522,3848
+18025,Nicolas Ferreira,4462,267
+14072,Ellen Santos,4732,1329
+88771,Lele de Jesus,412,3702
+79625,Lidson Rodrigues,105,467
+18199,Lidson de Jesus,2702,4626
+80053,Marianna Pinto,1882,161
+98345,Ellen Rodrigues,1718,297
+66888,Ricardo Pereira,3797,148
+69018,Thierry da Silva,38,1122
+95232,João da Silva,2323,4039
+83892,Nicolas Santos,1274,3216
+79028,Marianna Santos,1613,171
+97672,Marianna Pinto,3538,2973
+48712,Lele da Silva,2868,2854
+42714,Lucas Lima,3968,2846
+45451,Nicolas Oliveira,992,3270
+69639,Leo da Silva,1489,981
+13601,Pedro Rodrigues,3462,1369
+90361,Lele Souza,4547,2615
+18490,Lidson Martins,2723,632
+47552,Thierry Rodrigues,4464,937
+40298,Ellen Lima,4820,1970
+42538,Nicolas Martins,2941,1422
+57272,Lele Santos,2981,4911
+71173,Hugo Santos,4462,3781
+91193,Nicolas Ferreira,2401,1345
+74688,Lele Martins,5,4626
+60649,Thierry Lima,4955,2181
+16448,Ricardo da Silva,392,206
+92280,Leo Souza,751,597
+72190,Ricardo Pinto,4151,4160
+30313,Marianna Pinto,2042,2947
+85075,Nicolas Ferreira,4788,2001
+99985,Marianna Pereira,3601,113
+74692,Lele Martins,4083,4512
+35609,Thierry Pinto,3861,3527
+94293,Ellen das Dores,2904,2864
+86224,Lidson das Dores,322,4598
+97178,Ellen das Dores,694,1915
+13656,Ricardo da Silva,3899,2552
+63906,Lidson Rodrigues,4693,1058
+31310,Lele das Dores,1638,4234
+26500,Hugo Santos,4864,1842
+92443,Marianna Santos,110,2002
+66839,Pedro Ferreira,1736,2417
+84651,Marianna Rodrigues,1592,1836
+60485,Lele Pinto,4008,1079
+48031,Marianna das Dores,4921,3245
+63589,Ricardo da Silva,1867,50
+34849,Lucas Pinto,2953,4697
+83748,Pedro da Silva,1374,519
+46465,Ellen de Jesus,1914,1098
+31646,Ricardo Santos,4516,1663
+20775,João Santos,333,641
+28642,Leo Santos,2114,349
+94218,Marianna Rodrigues,2594,471
+10267,Ellen das Dores,3843,2207
+30431,João Lima,1636,2081
+28473,Lidson de Jesus,4718,3919
+80320,Ellen Souza,4805,1037
+50736,Nicolas de Jesus,2039,487
+82220,Marianna Oliveira,2700,2600
+50467,Leo Santos,3676,724
+26852,Lidson Lima,4621,3179
+50108,Leo Ferreira,4345,2994
+76032,Leo Ferreira,2180,3810
+52733,Pedro Pereira,4071,2605
+29332,Pedro de Jesus,4549,3485
+36500,Ellen Santos,2027,3069
+91347,João Martins,2124,612
+43947,Lidson Ferreira,3326,220
+58627,Lidson Rodrigues,745,4698
+10091,Nicolas Martins,697,2425
+47485,Lele da Silva,241,2089
+78602,Lucas Ferreira,2908,275
+49110,Lele Souza,3044,914
+80251,Ellen das Dores,3236,4819
+67461,Nicolas Martins,2645,1909
+35967,Pedro Pinto,1221,4544
+84465,Ricardo Oliveira,1992,2384
+47325,Ellen das Dores,337,1757
+72939,Marianna Martins,1890,3934
+99798,João Martins,4270,4757
+65909,Marianna Pereira,4306,2777
+71605,Lucas Ferreira,36,1941
+80430,Lele da Silva,4469,383
+65238,Lele de Jesus,4224,4868
+64716,Nicolas Souza,4582,3219
+87409,Nicolas Souza,2875,331
+83341,Ellen Pinto,1779,410
+84259,Marianna Pereira,1531,2365
+90578,Leo Oliveira,3806,4739
+79700,Leo Santos,3687,4612
+92892,Lidson Ferreira,4511,3409
+69605,Lele Pinto,325,2695
+53944,Lele Lima,2938,3996
+16977,Pedro Lima,2902,1570
+36031,Nicolas Martins,1469,3638
+41568,Lele da Silva,2647,286
+98071,Lucas Pinto,3746,2139
+54297,Hugo Ferreira,2656,2886
+48745,Ellen Santos,1306,1552
+64658,Pedro Rodrigues,697,4654
+73464,Pedro Oliveira,3220,343
+18343,Hugo Souza,376,3482
+43526,Marianna Oliveira,2257,3362
+59810,Marianna de Jesus,4011,4759
+97701,Nicolas Santos,1048,3246
+95750,Marianna Rodrigues,812,4073
+62053,Ricardo de Jesus,3061,689
+74499,Lele da Silva,2325,12
+43738,João Souza,4233,281
+47131,Thierry de Jesus,3209,2611
+12411,Ricardo da Silva,3331,4360
+60703,Lele Lima,2844,2226
+49971,Marianna Oliveira,671,2627
+73692,Ricardo Rodrigues,2259,479
+92989,Nicolas Oliveira,4590,2133
+37524,Thierry Pereira,3925,638
+22967,Ricardo Martins,4451,772
+15495,Thierry de Jesus,4554,2698
+19297,Nicolas Rodrigues,770,300
+26289,Pedro Pereira,2619,2752
+21438,Leo Lima,4203,3495
+49411,Lidson da Silva,2652,2588
+63468,Hugo Oliveira,3681,578
+38094,Thierry Rodrigues,2286,2964
+39081,Thierry de Jesus,165,224
+83436,Marianna da Silva,4087,3295
+99173,João Pereira,2378,1039
+52923,Marianna Ferreira,2184,1573
+69564,Leo Martins,4415,2616
+61888,Marianna de Jesus,4982,3682
+19259,Nicolas Pereira,1157,4370
+91338,Lele Santos,1974,4030
+77058,Thierry Rodrigues,3020,873
+70864,Pedro de Jesus,555,2694
+30473,Lele Souza,975,4686
+14896,Lele de Jesus,985,1647
+21662,Lidson Ferreira,3149,737
+32050,Lucas Rodrigues,3931,1633
+54950,João das Dores,2973,1122
+36964,Nicolas Lima,4962,861
+94501,Leo Lima,143,2082
+47993,Ricardo Pereira,1153,1096
+60493,Lidson Santos,4148,932
+68343,João Santos,1806,2906
+53719,Marianna Rodrigues,97,1997
+20409,Nicolas Pinto,3998,3407
+33893,Marianna Lima,1578,3472
+21528,Marianna Souza,4068,74
+71062,Leo Ferreira,845,1347
+81654,João Martins,22,2918
+67958,Ellen Pinto,2309,4024
+82636,Hugo Oliveira,2723,2814
+18133,Pedro Ferreira,4872,3682
+61298,Ricardo Lima,757,3757
+17045,Pedro Pinto,4990,1977
+90069,Lucas de Jesus,3582,4205
+36357,Thierry Pereira,3428,3842
+95619,Lidson Rodrigues,2105,3680
+63553,Pedro da Silva,1348,1972
+97973,Nicolas de Jesus,103,1390
+93251,Leo Lima,2578,1825
+46466,Ellen das Dores,180,1311
+78176,Nicolas Souza,228,3812
+23756,Lucas das Dores,4884,3334
+78432,Lucas de Jesus,2546,4973
+55358,Hugo das Dores,4153,3622
+32544,Leo Rodrigues,2795,1592
+46582,Nicolas Ferreira,2785,3882
+26274,Lucas Pinto,2354,3652
+54248,Lele Ferreira,1542,2160
+80097,João da Silva,1987,864
+70998,João Rodrigues,4137,514
+90001,Lucas das Dores,1420,4663
+80501,João Pinto,3384,1692
+35182,Ricardo Ferreira,981,2934
+17176,Ellen Santos,4220,1479
+56192,Hugo da Silva,1233,388
+97064,Lele Pereira,1294,4795
+48045,João Ferreira,1370,4992
+57854,Lele Ferreira,1905,4076
+88474,Lele Ferreira,1898,2101
+89792,João das Dores,2651,4415
+21213,Lidson Rodrigues,527,1255
+10215,Ricardo Santos,2908,4837
+55338,Hugo Souza,2379,3688
+92277,João Souza,1278,3822
+63386,Lidson Souza,3925,4405
+23642,Nicolas Oliveira,71,1352
+34070,Ellen Oliveira,1484,3507
+42527,Leo Ferreira,2140,3819
+12664,Lucas Santos,4163,2983
+66466,Ellen Rodrigues,2799,1543
+79896,Marianna Pinto,546,994
+27071,Leo Souza,2661,4150
+51704,Marianna de Jesus,1398,3384
+46466,João Rodrigues,4418,2642
+85239,João Pinto,3040,1370
+75942,Lidson Martins,3107,3838
+58028,Lidson Souza,4808,4185
+70105,Marianna Rodrigues,1192,2202
+31751,Thierry de Jesus,4590,2951
+95407,Pedro Oliveira,953,2749
+29430,Lucas Pinto,157,1576
+28509,Nicolas Pinto,4264,3946
+73899,Leo das Dores,2680,1110
+18465,Lidson Pinto,51,1445
+32082,Ellen da Silva,934,1057
+94117,Thierry Pereira,2718,2327
+78070,Lucas Rodrigues,3228,1434
+26834,Pedro Souza,4285,3434
+75646,Ricardo Rodrigues,3838,3044
+39445,Lidson Pereira,4307,4400
+65312,Hugo Souza,586,3646
+97106,Lucas Lima,2719,1761
+78837,Ellen Santos,3409,2436
+17772,João Pinto,1872,1588
+36212,Ricardo da Silva,4062,1227
+36088,Leo Oliveira,3560,477
+17451,Lidson Rodrigues,1994,3897
+55259,Lucas Pereira,3377,1253
+93176,Thierry Ferreira,1122,3597
+92015,Lidson Oliveira,1215,2278
+40240,Marianna Ferreira,1887,64
+26896,Ricardo Ferreira,1411,833
+83292,Ellen Rodrigues,2852,933
+10870,Leo Souza,4317,2509
+32446,Marianna Pinto,1906,1003
+24686,Nicolas Santos,1504,1673
+97737,Marianna da Silva,33,4810
+58915,Nicolas Oliveira,725,4212
+36569,Leo Martins,3776,3990
+81317,Nicolas de Jesus,2454,696
+10655,Ricardo Souza,725,1640
+67384,Pedro de Jesus,3503,4737
+66054,Lucas Lima,1839,3481
+62328,Ellen Martins,598,4776
+89885,Leo Oliveira,3467,3395
+62713,Nicolas Martins,2806,2224
+57524,Thierry Ferreira,1952,4292
+29660,João Lima,2826,149
+92575,Hugo Pereira,4041,2674
+95240,Ellen Santos,4609,2926
+63749,Ricardo Ferreira,3749,2284
+60815,Ricardo Souza,566,434
+67731,Leo Ferreira,2256,2562
+30286,Lucas da Silva,989,3058
+39773,Pedro da Silva,3267,4269
+58120,Thierry Pereira,428,2204
+47491,Ricardo da Silva,3143,1556
+21725,Marianna Lima,131,3812
+83138,Lele Oliveira,1044,4891
+71198,Ricardo Ferreira,4131,4321
+71410,Lucas Pinto,626,3249
+36828,Ellen Souza,3217,4081
+67979,Ellen das Dores,2549,4758
+45096,Ricardo Rodrigues,3214,2463
+78599,Marianna Oliveira,654,577
+50970,Lucas Rodrigues,3860,4619
+18964,João Souza,4407,2458
+32681,Hugo Rodrigues,3154,4999
+34098,Hugo Pereira,2541,1916
+61055,Marianna Pinto,1368,409
+28115,Lidson Souza,3943,2781
+21076,Ellen Souza,4638,1595
+98298,Marianna da Silva,3673,1008
+95469,Lucas Martins,455,4345
+45893,João Martins,4539,606
+72287,Nicolas de Jesus,4170,1648
+65069,Nicolas de Jesus,2498,4612
+65992,Ricardo Oliveira,3961,4818
+15359,Pedro Oliveira,812,3350
+11812,Nicolas das Dores,4945,1622
+94323,Hugo de Jesus,4220,4940
+49030,João das Dores,4638,3943
+96741,Hugo Ferreira,1929,3432
+50028,Lucas Martins,1095,2399
+41079,Lele Rodrigues,3244,1927
+20537,Thierry da Silva,1740,3586
+13680,João Santos,3320,3069
+33060,Lucas Pinto,4160,1076
+69193,Lucas da Silva,1576,50
+53290,Ricardo Souza,2816,544
+29067,Lucas Pereira,3924,3065
+65155,Nicolas Oliveira,1265,2323
+22134,Lucas de Jesus,3154,1589
+78976,Thierry da Silva,3439,1404
+35681,Lele de Jesus,4328,996
+89202,Marianna Souza,2077,362
+32914,Ellen Rodrigues,4826,1692
+67303,Lidson Lima,4214,674
+32369,Lidson de Jesus,276,4652
+43928,Lidson Pinto,2791,4391
+41577,Ellen Martins,3349,1485
+42221,Hugo Oliveira,1182,1467
+41594,Pedro Pinto,4828,1525
+10914,Lele Martins,2789,1029
+32387,Lidson da Silva,3667,2598
+52903,Lucas Oliveira,4449,414
+86434,Lele Pereira,156,799
+58520,Lidson Souza,3577,2319
+22826,Nicolas Ferreira,1930,2526
+30488,Lucas Rodrigues,725,573
+60157,Thierry das Dores,4681,3784
+96820,Hugo Santos,3840,4942
+26195,Ellen Souza,4291,4385
+91983,Pedro Santos,3992,3334
+60927,Lele Souza,1212,2177
+28343,Ellen de Jesus,2110,1874
+81278,Lele Oliveira,1550,4043
+59435,Nicolas Pinto,4698,3861
+24264,Lidson Santos,4535,2641
+44631,Lele Martins,2407,379
+89439,Leo da Silva,2861,813
+29373,Lucas Pinto,2999,3264
+36764,Pedro Souza,291,2811
+83991,Ellen da Silva,3572,4957
+45861,Hugo Oliveira,3216,2536
+37157,Hugo Santos,4110,223
+10228,Ricardo das Dores,3316,1458
+16184,Ellen Ferreira,4918,820
+96964,Thierry Santos,2665,54
+77646,Lele Martins,141,4932
+29032,João Martins,1224,3794
+55611,Lucas Rodrigues,173,3485
+79365,Lidson Santos,4954,2114
+99172,Pedro da Silva,3099,15
+11661,Hugo da Silva,3129,2737
+35189,Ricardo Ferreira,3949,4942
+71062,Leo Souza,1747,2247
+31818,Hugo Rodrigues,620,4230
+37290,Nicolas Santos,3022,4108
+20707,Hugo de Jesus,888,513
+96525,Ellen Lima,4303,3149
+81045,Lidson Oliveira,75,31
+39061,Pedro Pinto,1160,323
+16416,Lucas Pinto,3850,3115
+64140,Hugo Pinto,612,175
+43156,Pedro de Jesus,725,3366
+45143,Nicolas Ferreira,3082,3017
+36810,Lucas Oliveira,3189,3063
+29894,Ellen das Dores,1258,2812
+44927,Thierry Martins,86,2384
+54907,Lidson da Silva,1746,241
+78341,Nicolas da Silva,2949,2541
+59844,Leo Martins,3759,1597
+73750,Leo das Dores,1657,2258
+14405,Ellen Ferreira,1548,4832
+41149,João Souza,580,2107
+91163,Lucas da Silva,670,4022
+36363,Leo Rodrigues,3060,1129
+58048,Ellen Santos,3677,1596
+42388,Nicolas Pereira,802,2646
+94274,Nicolas Rodrigues,1025,4940
+14087,Lele Pinto,1105,3940
+80880,Lucas Rodrigues,3811,2593
+97005,Ricardo Souza,3026,1575
+10893,Pedro de Jesus,2866,4701
+71241,Lele Lima,1395,2395
+58818,Marianna da Silva,3721,2251
+86347,Ricardo de Jesus,2658,1090
+46388,Marianna Pinto,1111,257
+76113,Leo Martins,4757,3076
+41461,Leo Oliveira,1204,1569
+77660,Lidson Pinto,118,4400
+60290,Ellen Pinto,4450,772
+63451,Ellen Ferreira,3802,2568
+83115,Lidson da Silva,2710,4043
+48798,Lucas Oliveira,2051,3579
+66986,Marianna Pinto,4040,1752
+15934,Lele Lima,4063,4738
+46135,Pedro Ferreira,1708,1390
+61857,Pedro Lima,4776,2793
+53644,João das Dores,2633,1269
+12374,Leo Santos,351,2545
+99736,Thierry Santos,4932,600
+34922,Pedro Pereira,2151,2859
+72506,Marianna Ferreira,3461,2056
+92533,Hugo Souza,2425,1020
+52348,Lucas Martins,1862,4673
+86996,Pedro Lima,4987,4132
+68130,Hugo de Jesus,2054,1210
+73337,Thierry das Dores,793,511
+15927,Pedro Lima,2170,1889
+62359,Nicolas Rodrigues,906,1151
+26761,Lele Ferreira,2654,4551
+72130,Hugo Ferreira,4952,3900
+26161,Leo Souza,4057,4958
+48392,Ricardo Pereira,1761,2462
+69794,Leo da Silva,2514,739
+78436,Pedro da Silva,2472,839
+14713,Ricardo Ferreira,4360,3575
+93028,Ellen Pereira,2335,2356
+69018,Leo Rodrigues,3971,1549
+88033,Marianna Santos,2978,4613
+93264,João Lima,2476,4626
+44143,Lidson Rodrigues,2820,708
+97081,Nicolas Ferreira,2188,327
+74519,Leo Lima,1747,2883
+53041,João Ferreira,4214,2462
+92096,Lidson Pinto,2156,1623
+58489,Ricardo Oliveira,2797,4635
+57333,Hugo Pereira,377,358
+48478,Lucas Oliveira,4371,1269
+18311,Lele Oliveira,4830,3667
+44111,Nicolas Santos,2473,955
+21198,Pedro Souza,2396,3561
+93317,Ellen Pinto,459,1862
+52704,Marianna Martins,2400,1667
+70031,Marianna de Jesus,2044,3463
+42617,Lucas Santos,1563,2254
+94335,Lucas Souza,2264,2594
+57972,João Oliveira,3807,4053
+26577,Leo Pinto,183,451
+10003,Lucas Ferreira,38,4840
+63125,Thierry Ferreira,1092,1856
+59883,Lidson Rodrigues,3124,4138
+99050,Leo Pinto,2097,3123
+24244,Leo Martins,410,4701
+64001,Marianna das Dores,975,3284
+95561,João de Jesus,4020,3270
+99888,Pedro Lima,1679,3673
+33508,Leo Pinto,380,4016
+33967,Lucas Rodrigues,8,882
+18541,Lele Pereira,605,1229
+58121,Lidson Lima,2545,1916
+21486,Lucas Lima,4217,3250
+61089,Ellen Rodrigues,1514,1770
+55313,Lele Souza,2546,2686
+25809,Thierry das Dores,1692,306
+83340,Thierry de Jesus,4531,404
+91599,Ricardo de Jesus,497,4071
+99000,Lidson das Dores,246,3310
+27921,Hugo Pinto,4565,3846
+24067,Ricardo das Dores,1667,943
+51638,Ricardo da Silva,1948,2015
+92649,Ellen Souza,4237,929
+65151,Ricardo Rodrigues,3754,4680
+56439,Lele das Dores,4334,4434
+15914,Pedro Lima,4738,2508
+96835,Thierry Lima,3638,4365
+42871,Hugo de Jesus,2470,1328
+28621,Pedro Ferreira,194,952
+88513,Lele Pinto,2791,4532
+89607,Lele Rodrigues,4831,2224
+59044,Ricardo Pereira,3375,1024
+12769,Ellen Martins,582,3879
+62438,Lidson Pereira,3434,2076
+81648,Lele da Silva,146,2011
+25208,Thierry de Jesus,4046,786
+45193,Hugo Rodrigues,139,3315
+60892,Nicolas Santos,3458,3692
+49883,Lidson Rodrigues,384,1894
+59352,Lucas Ferreira,3083,1176
+35142,Lidson Oliveira,4010,4728
+66896,João Santos,552,1162
+86135,Thierry Pinto,4696,1249
+54486,Lidson Pereira,2312,1509
+23464,Lucas Ferreira,4931,3181
+18740,Lele Santos,601,4699
+17484,Ellen da Silva,2550,1973
+18072,Thierry Santos,2456,3470
+76136,Leo de Jesus,1850,1931
+86333,João Oliveira,190,2790
+12462,Nicolas de Jesus,2752,779
+23828,João da Silva,1081,126
+96597,Lele Santos,780,2901
+78998,Nicolas de Jesus,3619,284
+86322,Hugo da Silva,3924,2240
+39904,João Ferreira,772,2075
+81885,Ricardo Lima,3504,4490
+46111,Lucas Oliveira,4619,2679
+34782,Lucas das Dores,2,1769
+87523,Hugo Pereira,3833,2666
+97926,Pedro Lima,557,1556
+16701,Lidson Rodrigues,2658,4817
+59692,Ricardo Santos,4480,1563
+79198,Pedro das Dores,4787,1236
+63197,Ellen Oliveira,3805,4943
+20502,Leo das Dores,426,3626
+91204,João Santos,903,1017
+96867,Pedro da Silva,4171,1380
+63284,Pedro de Jesus,1549,307
+25152,Marianna Santos,914,3662
+90869,Lucas Rodrigues,1633,2524
+39443,Ricardo da Silva,2026,3951
+31369,Pedro da Silva,1439,3921
+20397,Ellen Ferreira,3598,3152
+75662,Ellen Pereira,3629,877
+63493,Lidson Rodrigues,4830,1641
+12117,Lidson da Silva,1725,2309
+55696,Hugo Pinto,2938,2151
+61188,Pedro Pinto,2676,848
+34241,Ellen das Dores,862,2391
+62873,Thierry da Silva,4604,2828
+82578,Thierry Pereira,2854,2180
+19239,Leo Santos,2821,382
+97543,Marianna Pinto,4254,3885
+46382,Lucas Oliveira,1858,4292
+43408,João das Dores,2923,964
+60014,Lele de Jesus,2510,2203
+58335,Ricardo Ferreira,4000,3690
+22629,Nicolas Lima,2449,1228
+23190,Leo Souza,1917,4438
+48971,Ricardo Pinto,142,450
+32868,João Oliveira,3037,4461
+29773,Ricardo da Silva,2532,4070
+81272,Lidson Souza,1919,39
+86724,Thierry da Silva,4587,45
+77881,Lidson da Silva,414,4614
+29049,Marianna Oliveira,1012,1751
+61384,Lucas Pereira,3096,4151
+94799,Nicolas Rodrigues,2846,2567
+81120,João Rodrigues,4716,358
+38913,Leo Souza,521,4172
+57960,Lucas de Jesus,4060,2431
+58509,Hugo Ferreira,169,3081
+33694,Ricardo de Jesus,4817,3242
+54315,Thierry Rodrigues,4294,2324
+21343,Lucas Martins,1862,962
+63852,João Ferreira,2801,3981
+87949,Leo da Silva,948,1420
+72670,Lele Souza,3741,2583
+44796,Lidson Santos,1053,727
+56351,Pedro Santos,4148,4902
+71048,Lidson de Jesus,2689,2112
+89410,João da Silva,1570,3259
+48664,Lidson Martins,586,3615
+48125,Hugo Rodrigues,444,2806
+41128,Leo Souza,1494,3802
+46168,Hugo Pinto,1731,3608
+27982,Nicolas Pereira,2328,3362
+31000,Lele Martins,1569,756
+51246,Lucas Souza,2272,77
+47314,Pedro Souza,1717,4835
+90516,Thierry Rodrigues,3113,4094
+49895,Thierry Pereira,3524,2502
+71995,Thierry Santos,1789,512
+90127,João Rodrigues,1342,2159
+17703,Hugo Pinto,3920,1212
+23044,Pedro Pinto,3882,3101
+26844,Nicolas Rodrigues,4388,4972
+58746,Lele Lima,3868,3468
+70306,Lucas de Jesus,4294,315
+40690,Ricardo Lima,3692,3962
+14034,Pedro Pereira,138,2412
+69125,Pedro Ferreira,1701,409
+97919,Lele Lima,2989,2177
+99505,Thierry Oliveira,3765,4506
+42636,Leo Martins,2175,957
+85734,João Souza,3611,3242
+21850,Lele Lima,2704,4894
+43656,Thierry Pereira,1170,3555
+26125,Marianna Lima,1341,369
+27175,Pedro Santos,4821,1156
+56165,Hugo Pereira,3396,521
+12501,Pedro Martins,298,4717
+23523,Hugo Rodrigues,2884,3237
+33803,Nicolas Martins,317,1134
+64767,Nicolas Rodrigues,488,2493
+93321,Lele Ferreira,2274,4579
+28096,Pedro Ferreira,1543,946
+68265,Ricardo Pinto,754,2932
+14166,Lele Lima,3820,2763
+92738,Lele Rodrigues,4774,783
+35149,Nicolas Lima,2809,4851
+45863,Nicolas Oliveira,3082,3720
+40032,Leo Ferreira,468,1771
+44220,Lucas Lima,1547,1969
+12998,Thierry Pereira,2269,4180
+58351,Pedro Martins,321,2076
+84239,Marianna Lima,677,722
+20151,Lidson Pereira,44,3021
+68922,Pedro Santos,2703,128
+60983,Marianna Oliveira,4762,3195
+75058,Ricardo da Silva,4322,4436
+21832,Hugo Souza,416,715
+43111,Lidson Santos,1428,3179
+88673,Lidson da Silva,2380,3162
+78178,João Santos,3785,3333
+45796,Thierry Lima,1849,4326
+38140,Lidson Santos,3695,1635
+99075,Hugo Pinto,3022,4350
+27650,Lucas Pinto,4088,1747
+14328,Lele Souza,3386,3204
+80573,Nicolas da Silva,2260,3364
+61305,Hugo Ferreira,3370,3847
+70175,Ellen da Silva,1239,1108
+72356,Nicolas Rodrigues,1700,2607
+78216,Ricardo Santos,4318,4239
+15106,Marianna Martins,3574,4511
+46234,João Ferreira,4236,2533
+59183,Lele Ferreira,4702,1813
+67972,Lucas Lima,4128,2667
+44827,Thierry de Jesus,1434,1602
+50663,Lele Pinto,2501,4125
+86501,Lucas Rodrigues,1506,1621
+53332,Pedro Oliveira,4168,954
+94407,Nicolas Lima,130,2216
+80950,Leo das Dores,2267,1199
+61330,Lele Oliveira,3770,4993
+27065,Lele Rodrigues,2435,2293
+34579,Hugo Ferreira,4584,2034
+62467,Leo Martins,3797,3882
+32711,Pedro Martins,2254,500
+45561,Leo Pinto,4860,2422
+18511,João das Dores,3711,976
+42826,Pedro da Silva,1851,193
+94174,Lele Pereira,509,4135
+16578,Pedro Santos,1728,4130
+48973,João Oliveira,4278,2193
+85801,Marianna da Silva,1631,4962
+21010,João Martins,2048,2542
+52052,Hugo Souza,4562,4271
+10433,Nicolas Lima,1336,4508
+97375,Thierry Pinto,443,1178
+23033,Lucas Rodrigues,471,847
+82749,Lucas Pinto,462,2598
+65154,Hugo das Dores,1345,1996
+34264,Thierry Lima,1810,3785
+76002,Lucas da Silva,3029,1643
+35283,Lele Pinto,3924,3532
+66987,Nicolas Lima,2852,971
+33927,Thierry da Silva,258,2736
+39975,Thierry Pinto,3413,3759
+38511,Pedro Rodrigues,1751,1454
+66701,Ricardo Oliveira,3371,386
+10275,Ricardo Pinto,1052,2279
+73645,Thierry da Silva,967,1146
+17629,Lele Oliveira,4206,1740
+81693,Leo Pereira,4296,1757
+34547,Nicolas de Jesus,424,2834
+97528,Thierry Pinto,77,1004
+65922,Hugo Pereira,4533,1518
+34753,Leo Ferreira,4303,1564
+66595,Thierry Martins,4090,3226
+15600,Pedro Pereira,3556,2652
+31631,Pedro Ferreira,355,1713
+22071,Ricardo da Silva,2396,2749
+86177,Ricardo das Dores,998,2074
+61835,Hugo Pinto,2526,2930
+94095,Pedro Martins,125,321
+78212,Lele Lima,2618,3666
+86491,Ricardo Pinto,2212,3827
+62220,Nicolas Oliveira,4964,2039
+10605,Ricardo Lima,4920,3244
+40110,Marianna Santos,4769,397
+28256,Lele Pereira,2463,3551
+75908,Ellen da Silva,3156,3731
+60406,Ricardo Oliveira,2684,3641
+54345,Pedro Santos,4996,1567
+68767,Lucas Pinto,1458,1884
+48448,Nicolas Rodrigues,2301,4034
+70642,Lele Ferreira,1228,71
+35383,Ellen Santos,900,3072
+31680,João das Dores,4685,504
+78182,Lidson das Dores,843,2974
+38561,Ellen Lima,366,3987
+10918,Thierry Oliveira,4317,4292
+39212,Pedro das Dores,2011,2513
+15484,Leo Santos,4548,3917
+83668,Lucas Pereira,408,3328
+86631,Hugo Martins,1440,4703
+32330,Leo Martins,1630,607
+35606,Ricardo Oliveira,220,2074
+68279,Hugo Martins,4710,2609
+11308,Nicolas das Dores,1058,1807
+22583,Ellen da Silva,2791,1445
+98036,Lucas Rodrigues,1664,1345
+82727,Thierry Santos,4537,4636
+33421,Lidson Rodrigues,1874,2725
+17656,Ellen Santos,2469,2156
+28329,Marianna Rodrigues,4539,1550
+31287,Lidson da Silva,18,2001
+87654,Lele Martins,1531,3455
+18439,Leo das Dores,3509,3823
+61658,Leo da Silva,915,2865
+87865,Lele Rodrigues,3060,825
+41479,João Pereira,4224,4703
+38260,Thierry Pinto,203,3308
+21680,Marianna Pinto,2760,1277
+86643,Hugo Pinto,3701,2622
+37849,Marianna Rodrigues,1640,4858
+55217,Marianna Souza,1116,4936
+35616,Nicolas Lima,4246,3204
+33652,Marianna Oliveira,100,169
+89283,Lele de Jesus,1894,1498
+38279,Nicolas Pinto,4298,2019
+31617,João Martins,2845,1675
+34625,Ricardo Martins,2097,2190
+82833,Leo Souza,2264,342
+58743,Leo Rodrigues,3073,390
+42245,Ricardo Oliveira,4806,386
+39131,Lele Santos,4199,929
+18803,Nicolas Lima,3789,482
+87847,Lele Ferreira,4456,3974
+49951,Ricardo Ferreira,1110,594
+81981,Ellen Martins,4336,3215
+55498,João de Jesus,862,4068
+55805,Ellen da Silva,1984,304
+86692,Thierry Rodrigues,4592,303
+80932,Thierry Souza,1543,3470
+19323,Nicolas das Dores,1422,1811
+95129,Thierry Ferreira,1654,4011
+13597,Hugo Pereira,1776,1133
+14775,Hugo Souza,140,1567
+54655,Nicolas Rodrigues,3612,351
+72213,João Souza,3200,3803
+42968,Leo Lima,3288,2165
+31026,Hugo Lima,41,4084
+74130,Nicolas Martins,2585,406
+69695,Lucas Pereira,922,3914
+54453,Ricardo das Dores,4465,2591
+83114,Hugo Pereira,3366,3525
+26444,Lidson da Silva,1898,1306
+89798,Nicolas Oliveira,3253,2491
+65313,Lele Martins,3794,3304
+50583,Marianna Oliveira,2999,4589
+71880,Leo da Silva,1776,4767
+52023,Thierry Rodrigues,3343,3445
+21260,Leo da Silva,2905,2531
+58805,Nicolas Ferreira,1043,4780
+24025,Pedro Oliveira,216,4757
+57706,Lele Ferreira,1465,2150
+62875,Leo Pereira,4059,349
+37117,Lidson das Dores,274,3417
+33208,Nicolas da Silva,3487,3546
+13308,João Santos,3839,4925
+89358,Marianna Pinto,2293,4295
+11700,Pedro Santos,4688,2569
+62180,Pedro da Silva,3780,884
+54187,Ricardo da Silva,1561,1168
+25585,Marianna Pinto,3918,1268
+10775,Ricardo Lima,1711,1126
+60267,Thierry Souza,946,481
+50087,Marianna Oliveira,3589,758
+39314,Leo da Silva,2760,229
+99688,Lele Pereira,3407,4479
+89801,Thierry de Jesus,2558,3940
+65988,Lidson Oliveira,4292,2521
+54376,Nicolas Rodrigues,2512,2907
+55275,Lele da Silva,2723,2862
+57057,Ellen Ferreira,2169,1660
+13807,Lidson Santos,2684,2038
+70875,Lidson Oliveira,3604,4602
+67742,Lucas Souza,3538,1067
+54452,Ellen Martins,3052,4420
+86672,Hugo da Silva,1341,41
+86224,Lucas das Dores,1563,4097
+52188,Lucas Pinto,4195,203
+22872,Hugo de Jesus,1918,3276
+10117,Lidson Ferreira,3876,161
+94429,Thierry Pereira,3827,2735
+83523,Thierry da Silva,2333,3582
+48427,João da Silva,940,2639
+39912,João Souza,4599,1651
+17318,Lidson Pereira,3298,601
+75699,Lidson Pinto,4529,593
+73248,Ellen Oliveira,3269,3726
+35931,Lidson da Silva,1491,1946
+19308,Pedro de Jesus,4943,813
+91056,Lucas de Jesus,1837,4307
+27033,Nicolas Rodrigues,3039,1896
+20453,João Ferreira,2354,1920
+46504,Marianna Santos,2052,2552
+45539,Ellen Santos,2793,2321
+92128,Lucas das Dores,1536,3481
+78053,Lele das Dores,2668,3462
+47704,Pedro Pereira,3568,3843
+92114,Leo Ferreira,1248,4114
+39002,Lele Pereira,4883,4289
+64504,Pedro Oliveira,1341,2525
+19802,Leo Ferreira,1074,2380
+22177,Leo Oliveira,946,4631
+49270,João Santos,869,2160
+99395,Leo Pereira,2760,2970
+17138,Ricardo das Dores,3228,422
+81641,Ellen Rodrigues,2886,252
+55084,Lucas Oliveira,3440,1818
+14768,Hugo Martins,3041,3154
+38654,Ellen das Dores,2271,4535
+87302,Marianna Santos,1526,4816
+83286,Lele Souza,3015,2793
+50043,Thierry Santos,691,1324
+70746,Nicolas Pinto,1854,2936
+44735,Lucas Rodrigues,2056,3221
+63556,Ellen Santos,2465,3854
+41636,Lucas Souza,987,2208
+14097,Hugo Souza,1944,4691
+73579,Ricardo de Jesus,1853,616
+65212,Lucas Santos,4226,2984
+82055,Lidson das Dores,2092,23
+33737,Thierry Souza,4133,1575
+35324,Lidson Martins,3306,2003
+76831,Pedro Santos,472,4368
+69516,Lucas Souza,3708,2948
+65475,Lucas Rodrigues,3526,3567
+60656,Nicolas da Silva,2442,2523
+54462,Leo Pinto,2307,3606
+94805,Ricardo Martins,102,1722
+79625,Lucas Martins,3153,4992
+66359,Ellen Santos,3598,1048
+21515,Thierry Pereira,1372,3018
+35112,Lidson Ferreira,4588,560
+61078,Leo Pinto,1168,792
+52079,Lidson Pinto,3645,3634
+49604,Lucas Lima,2392,1279
+39755,Leo Rodrigues,3564,4227
+78892,Marianna Martins,258,1261
+37244,Pedro Oliveira,3549,4885
+26013,Leo Oliveira,4927,2629
+30669,Ellen Souza,4743,2878
+83393,Thierry Santos,1507,3176
+84255,Lidson Pereira,4225,3854
+51577,Hugo Lima,2016,1671
+40642,Lidson Oliveira,3286,1812
+17548,Marianna Ferreira,2043,2492
+88372,Pedro Oliveira,3889,716
+75506,Pedro Martins,1537,3227
+37340,Pedro das Dores,2704,24
+84995,Ricardo da Silva,4506,1257
+37727,Lucas da Silva,1972,744
+62407,João Oliveira,1512,2838
+12580,Pedro Oliveira,4096,1939
+93566,Nicolas Martins,316,3545
+64055,Lucas Martins,2892,4762
+72349,Marianna Souza,3331,3796
+55538,Lidson Rodrigues,1174,1479
+45814,Leo Martins,3766,3215
+13074,Leo das Dores,306,1436
+28224,Thierry Rodrigues,4354,2739
+60163,Hugo Rodrigues,2753,2216
+93442,Lele Martins,3013,3282
+88497,Nicolas da Silva,3549,4785
+48052,Pedro da Silva,2253,267
+38088,Lele Pereira,293,3131
+85441,Nicolas Pereira,4132,2883
+94039,Hugo Martins,3960,2861
+11759,Lele Martins,568,3111
+46343,Ellen de Jesus,1869,4856
+67991,Hugo Pereira,767,2949
+96266,Lele Rodrigues,2631,1364
+21954,Ricardo Santos,186,264
+23965,Leo Oliveira,4431,2189
+70447,Thierry das Dores,2594,655
+11236,Ricardo Oliveira,4881,3961
+62065,João das Dores,4919,1936
+19445,Nicolas Martins,620,1158
+27755,Thierry Pereira,576,3123
+46574,Lele Oliveira,231,4444
+82355,Leo Lima,3097,4900
+65697,Lele Ferreira,4824,988
+65543,Thierry Santos,4617,278
+94591,Thierry Pereira,3128,2946
+54620,Lele Lima,2601,3860
+68368,Thierry Rodrigues,4579,3509
+77404,Ellen Souza,676,807
+47428,Nicolas Rodrigues,3282,993
+69725,Leo Lima,2258,794
+31446,Pedro Martins,2806,2999
+13052,Marianna Oliveira,4262,1357
+26125,Nicolas das Dores,1970,1343
+21808,Leo Souza,3736,4606
+24992,Nicolas Santos,792,3666
+90263,Leo de Jesus,836,2508
+34200,Lidson Rodrigues,4965,1713
+71093,Lele Pinto,3765,2841
+22522,João Ferreira,1768,4610
+81948,Hugo Oliveira,1312,1282
+49609,Thierry das Dores,808,4557
+37383,Thierry Lima,6,3795
+72431,Lidson Rodrigues,114,4618
+78924,Leo Oliveira,2160,4886
+80630,Lidson Pereira,422,840
+67895,Ellen Oliveira,2941,1683
+39703,Lele Oliveira,3640,4529
+23465,Lele Martins,2672,952
+74451,Leo Pereira,3877,399
+86108,Ellen Lima,486,4003
+97424,João Souza,314,2093
+27889,Pedro Pinto,3123,3264
+84710,João Ferreira,1782,821
+89211,Leo Rodrigues,415,1226
+67885,Lele de Jesus,4512,2650
+10176,Marianna das Dores,527,3708
+84025,Pedro Oliveira,2933,892
+50566,Lidson da Silva,1247,3541
+26490,Ellen Lima,247,385
+24827,Lidson Santos,1954,2351
+40501,Pedro Rodrigues,3477,3987
+55704,Lele Ferreira,181,1351
+87269,Ellen Santos,1379,1785
+68814,João Pereira,3037,25
+53760,Thierry de Jesus,1284,689
+24477,Lucas Souza,3470,2542
+38517,Pedro Lima,2119,1367
+82188,Nicolas Oliveira,2929,4325
+40346,Lele de Jesus,4193,3936
+26012,Ricardo Oliveira,4117,518
+55810,João Pereira,3377,1983
+71215,Nicolas Pereira,4968,939
+60173,Marianna Pinto,4360,172
+84886,João Oliveira,149,719
+24118,João Martins,3569,3231
+77864,Thierry Rodrigues,373,2527
+48416,Ellen Martins,2635,409
+48124,Lele Souza,3198,165
+62911,João Ferreira,4504,2512
+57882,Pedro Pinto,567,1572
+42400,Marianna Rodrigues,2579,4077
+89341,Lucas Souza,1905,4895
+24190,Thierry Souza,4720,992
+14276,Hugo Pinto,2383,1047
+93631,Leo Pinto,4503,604
+79197,Lidson Martins,4737,3273
+68313,Pedro Oliveira,2639,3048
+65342,Pedro das Dores,549,322
+49437,Pedro Souza,4994,2293
+40755,Leo Martins,2930,2426
+50867,Ellen de Jesus,4085,436
+98442,Nicolas de Jesus,290,480
+93332,Pedro Santos,339,3358
+30009,Nicolas das Dores,924,4921
+87376,Leo Santos,3434,4003
+30112,Ellen das Dores,4362,549
+80215,Marianna Ferreira,2610,2961
+60165,Lele das Dores,3007,3852
+41642,Leo Ferreira,3342,508
+40124,Lidson Rodrigues,4733,1591
+91830,Marianna das Dores,3182,489
+53165,Lidson das Dores,3672,955
+64335,Ellen da Silva,41,4842
+37670,Lele Pinto,3394,4395
+57935,Ricardo Pinto,4049,3671
+64836,Thierry da Silva,741,2167
+74540,Leo de Jesus,4890,3165
+15253,Lele de Jesus,60,4689
+48921,Marianna Oliveira,2922,3332
+32545,Pedro Pereira,340,3457
+83654,Marianna Souza,3168,2007
+56213,Leo de Jesus,2438,4408
+26835,Lucas Ferreira,1170,2868
+17565,Marianna Oliveira,790,981
+65383,Ricardo Martins,2264,1648
+75787,Lucas das Dores,3924,3656
+29354,Lucas Pereira,3413,1660
+72478,Nicolas das Dores,1858,3810
+66156,Lidson Oliveira,2759,3257
+41858,Leo Rodrigues,3832,632
+14350,Marianna da Silva,4543,4402
+96224,Leo da Silva,4149,706
+92886,Ellen das Dores,410,482
+44369,Thierry Pinto,4905,3373
+30736,Lidson Souza,266,375
+69014,Leo Oliveira,2223,2156
+44492,Hugo Lima,2540,3935
+39765,Marianna de Jesus,4624,1441
+29402,Lele Pinto,2961,4216
+21041,Thierry Ferreira,4714,1142
+90855,Pedro Souza,3306,2243
+59156,Ricardo Pinto,921,2395
+75013,Ellen Martins,3435,3388
+84899,Lele das Dores,314,4124
+61182,Lucas de Jesus,3114,2563
+14191,Nicolas Lima,1820,2889
+54733,Pedro Martins,1387,1984
+81929,Lidson de Jesus,1988,3005
+95099,Hugo de Jesus,875,472
+76190,Ricardo Martins,2683,2779
+14329,Hugo Oliveira,1697,2510
+19330,Lidson Martins,1173,1583
+56425,Lidson Pereira,2936,104
+35397,Pedro Martins,2771,1831
+12574,Nicolas da Silva,4091,4087
+78859,Marianna Martins,4418,1463
+25779,Ricardo Martins,3127,2898
+64466,Ricardo de Jesus,2144,2380
+27847,Thierry Lima,4598,3550
+33718,Leo Oliveira,3901,1824
+12668,Marianna Souza,2893,1809
+71045,Lidson Souza,1126,4963
+35092,Hugo Souza,1848,78
+92715,Ellen de Jesus,646,811
+58942,Ellen Pinto,1882,1013
+45206,Ricardo Ferreira,2062,1448
+89673,Ricardo Lima,1995,3604
+14990,Marianna Lima,2287,3037
+46540,Pedro Pereira,4128,1966
+76890,Ricardo de Jesus,2393,4609
+35316,Ellen da Silva,1213,4816
+31069,Ricardo Santos,2650,1797
+67762,Hugo Souza,3124,4154
+84059,João Souza,2594,3337
+67189,Ricardo Martins,1380,1395
+26929,João das Dores,2943,2998
+93465,Leo Ferreira,3985,538
+72836,Hugo Oliveira,4983,3461
+54884,Pedro Ferreira,3235,3314
+52414,Ellen Souza,2998,2960
+18664,Nicolas de Jesus,2094,365
+47707,Ellen Souza,3971,3475
+26938,Marianna Pereira,40,4299
+39151,Marianna de Jesus,1938,2916
+64979,Leo Rodrigues,653,4305
+84879,Leo Santos,326,4908
+22509,Pedro Santos,454,1893
+60791,Lele de Jesus,4351,3610
+65212,Ricardo Souza,4409,4163
+26342,Ellen Santos,1790,2899
+34611,Thierry da Silva,4870,891
+28142,João Oliveira,2811,3493
+76600,Nicolas das Dores,2610,4899
+98133,Ellen Santos,3085,2351
+42683,João Rodrigues,2927,2942
+19003,Ricardo da Silva,2487,3597
+82774,Lidson Oliveira,1505,2424
+25445,Ricardo Ferreira,4848,4365
+22507,Hugo Rodrigues,3166,4675
+24209,Ellen Lima,2099,672
+90622,João Ferreira,2473,2244
+72368,Nicolas Pinto,4176,1403
+65898,Marianna das Dores,1456,2251
+99038,Ellen Souza,412,4844
+29773,Nicolas Rodrigues,880,1088
+43316,Nicolas Ferreira,4126,4111
+50775,Pedro Santos,910,609
+18485,João das Dores,4074,2820
+17193,Thierry Ferreira,4512,4861
+84368,Nicolas da Silva,2016,2784
+98587,Lele Lima,633,2207
+71517,Leo de Jesus,3877,3776
+55275,Hugo Oliveira,3828,2161
+45166,Hugo Martins,2074,2671
+64725,Nicolas Ferreira,4031,3413
+52158,Lele Oliveira,4432,1934
+58586,Pedro Martins,3086,2554
+99676,Lucas Souza,2407,4423
+53552,Ricardo Rodrigues,883,1004
+86585,Ellen Oliveira,3882,1379
+23795,Thierry Pinto,2963,3459
+92626,Nicolas Oliveira,3556,1993
+80444,João Pereira,2288,3942
+42884,Hugo Rodrigues,2572,4814
+84885,Lidson de Jesus,441,197
+18405,Ellen Martins,1062,3725
+32282,Marianna Rodrigues,785,725
+12340,Pedro Ferreira,1153,607
+30815,Lidson Pereira,1476,4469
+10261,Hugo Pereira,4404,2037
+43123,Marianna Lima,180,868
+97167,Ricardo Santos,3267,2426
+23781,Lele Pinto,1367,2477
+50468,Ellen Martins,2642,1757
+92635,Lucas Rodrigues,3408,3991
+59767,Marianna Santos,4465,1647
+88256,Nicolas Ferreira,877,1197
+82641,Lidson das Dores,3018,4527
+22969,Thierry Pereira,1845,4350
+31461,Thierry Ferreira,4854,3833
+87009,Nicolas Oliveira,2890,1430
+80856,Hugo de Jesus,2125,1394
+70693,Marianna das Dores,2821,3576
+21048,Thierry da Silva,2441,3485
+61076,João Pinto,929,1833
+44367,Lidson Pinto,4412,779
+16935,Ellen Ferreira,1401,3390
+25067,Hugo Rodrigues,4859,877
+46162,Lucas Lima,3010,3370
+86948,Thierry Pereira,1493,1876
+39451,Marianna Pereira,3368,2419
+88580,Nicolas Rodrigues,1433,4443
+76774,Nicolas Martins,3866,2423
+86737,Nicolas de Jesus,4126,897
+14496,Ricardo das Dores,97,1229
+83068,Ellen Rodrigues,1314,2944
+48559,Nicolas Pinto,1630,3
+79223,Lidson Lima,4928,2408
+32980,Hugo Rodrigues,4252,136
+52599,Hugo Pinto,3489,409
+41209,Hugo Santos,1737,4271
+46291,Thierry Oliveira,4706,3031
+46617,Lucas Pinto,48,679
+37457,Lidson Martins,4955,3616
+87804,João Souza,806,2707
+61243,Ellen Ferreira,3406,4088
+44595,Pedro da Silva,3343,3504
+53598,João de Jesus,1987,2721
+99209,Thierry Ferreira,3610,772
+87519,Marianna Ferreira,1651,1113
+42263,Hugo Pinto,1115,1297
+27869,Thierry Martins,2501,646
+84086,Lele Pereira,3676,4733
+68906,Lele Santos,1297,2083
+71209,Ricardo Santos,3124,1493
+80813,Leo Martins,4204,1596
+65218,Lele Oliveira,4988,4730
+83047,João Souza,3858,505
+72285,Leo de Jesus,2699,1728
+99285,João da Silva,1726,2126
+50808,Lucas Lima,4509,265
+28019,João Pinto,4647,4136
+25019,Nicolas Oliveira,1748,1266
+12176,Pedro de Jesus,2986,3553
+39376,Leo Lima,143,4829
+58252,Ellen Rodrigues,4490,4895
+69291,Thierry Santos,4032,4213
+51766,Hugo das Dores,3941,2067
+56711,Lucas Lima,1244,1787
+24742,Hugo de Jesus,1943,3074
+42512,Leo Santos,3813,4891
+61406,Nicolas Martins,4930,4495
+27352,Lidson Martins,114,3159
+78321,Ellen Oliveira,1905,1891
+83629,Ellen Pereira,2252,4931
+88246,Ellen das Dores,2875,4233
+83824,João de Jesus,4788,4791
+30587,João Rodrigues,3175,1180
+88200,Thierry das Dores,393,1163
+33422,Nicolas de Jesus,4188,2388
+89854,Thierry Lima,4044,1158
+76815,Leo Santos,1610,89
+48702,Leo Santos,1073,1531
+80846,Leo de Jesus,1043,4041
+12628,João de Jesus,671,788
+55885,João Oliveira,4281,1081
+64850,Lidson de Jesus,2733,3431
+60179,Hugo Ferreira,3049,4374
+91792,Nicolas Pinto,3041,4637
+43819,Leo Santos,2666,1694
+16875,Pedro da Silva,1081,75
+48981,Leo de Jesus,1953,1681
+50325,João da Silva,2138,4225
+67503,Lucas Oliveira,3295,4465
+63276,Nicolas da Silva,3416,4001
+48342,Thierry Ferreira,2788,3033
+35463,Lele Ferreira,1287,266
+48670,Nicolas de Jesus,2552,3502
+69815,Lidson Santos,1303,4614
+76782,Ellen Rodrigues,773,2728
+45268,Lidson Santos,1907,3554
+58403,Hugo Souza,3834,3224
+43426,Leo Lima,3421,2487
+35985,Lele das Dores,4024,296
+21504,Nicolas Oliveira,2206,1001
+62012,Pedro Pereira,292,4853
+86262,Ellen Lima,1150,3195
+45342,Lidson da Silva,3696,1725
+38637,Lele Rodrigues,2743,1726
+73989,Nicolas Pereira,4063,2226
+63486,Hugo Lima,3148,4648
+66081,Leo das Dores,4744,4261
+38671,Ellen da Silva,3182,2329
+77835,Nicolas Pereira,1316,3718
+86620,Marianna da Silva,4838,302
+78279,Lidson Souza,4113,333
+67217,Ellen Santos,2965,1246
+38011,Ellen Martins,2311,77
+24731,Lele Martins,1835,2111
+22470,Lidson Rodrigues,1832,260
+86189,Ellen Santos,1622,4393
+13604,Hugo das Dores,2619,429
+95182,Ricardo Rodrigues,1232,4440
+31387,Lucas Oliveira,459,4273
+43605,Lidson Pereira,4418,4547
+30606,Ricardo Ferreira,1065,3883
+25196,Leo Martins,4207,4486
+59526,Lele Pinto,2831,312
+95048,Hugo das Dores,4129,3000
+24982,Ellen Oliveira,2318,2339
+16798,Lucas Rodrigues,4198,4597
+96683,Ricardo de Jesus,4204,4706
+81253,Lidson Martins,2437,4386
+69051,Pedro da Silva,4226,417
+26707,Nicolas Rodrigues,1253,4967
+53512,Lucas da Silva,2064,4386
+38105,Lele das Dores,1912,2382
+54180,Marianna Lima,4984,978
+10161,Leo Lima,541,2232
+49885,Nicolas da Silva,1999,4548
+89687,Nicolas de Jesus,1037,2453
+86481,Leo das Dores,636,1777
+27105,Ellen de Jesus,3261,4836
+64099,Marianna de Jesus,4571,109
+89355,João Rodrigues,4323,2049
+38469,Marianna da Silva,3871,4636
+94129,Pedro Souza,4159,1603
+64655,Ellen Rodrigues,4707,586
+42667,Ellen Souza,4531,3156
+80235,Lidson da Silva,4364,4003
+81197,Lele da Silva,3566,1206
+27379,Ricardo da Silva,4294,4275
+24653,Leo Santos,3653,1389
+40382,Ellen Lima,336,1082
+75883,Marianna Pereira,3813,3168
+42376,Lidson Lima,250,1436
+83297,Pedro Pinto,4696,4639
+16387,Leo de Jesus,4006,1585
+11332,Lidson de Jesus,4780,1245
+34379,Marianna Oliveira,1400,489
+92200,Hugo Pereira,2031,3644
+80407,Lidson Santos,2832,3051
+30994,Lele da Silva,2350,909
+34964,Hugo Martins,1893,2272
+83919,Thierry Ferreira,946,171
+12477,Hugo Oliveira,151,4728
+75086,Lele Souza,2914,3692
+16072,Ricardo Ferreira,2869,793
+55855,Pedro Lima,4863,1652
+12706,Lucas Pinto,3486,1809
+24474,Nicolas de Jesus,2957,17
+55044,João Pereira,4159,2090
+65318,Lidson Oliveira,4672,709
+66288,Ellen Lima,1783,509
+87183,Ellen Martins,1309,1827
+37720,João Rodrigues,93,1208
+28888,Lele Pereira,4044,3886
+55065,Ricardo Martins,1652,1184
+37144,Pedro Lima,3051,742
+43285,Ricardo Rodrigues,4450,2770
+68596,Pedro Pereira,4480,2490
+14319,Ellen Ferreira,3076,4618
+21181,Marianna Martins,3136,4163
+80115,Ellen da Silva,1419,1117
+42437,Ricardo das Dores,4737,4817
+61595,Lele Rodrigues,525,366
+64397,Pedro Rodrigues,2511,3940
+12065,Lucas Oliveira,2494,4497
+53893,Ellen de Jesus,4179,2317
+51416,Lucas Souza,843,3592
+30378,Marianna Santos,1676,3654
+89661,Hugo da Silva,1653,1705
+61916,Ellen Lima,2631,2921
+40166,João da Silva,4703,4097
+68955,Pedro Martins,58,1409
+29002,Leo Santos,987,3254
+74328,Lidson Rodrigues,3560,4055
+46296,Leo Santos,4510,2756
+19911,Hugo de Jesus,1037,485
+70855,Hugo Souza,2121,2246
+12465,Thierry Lima,2858,1378
+60195,Lele Rodrigues,4007,1922
+35635,João de Jesus,1234,1547
+36792,João de Jesus,4694,1583
+94365,Lele das Dores,2128,1202
+38178,Nicolas Lima,3314,1682
+70014,Thierry Oliveira,3435,2013
+89330,Ellen de Jesus,3632,4736
+30814,Lidson Santos,4846,72
+22854,Pedro Oliveira,3782,4838
+44551,Lucas Ferreira,3758,3962
+58203,Hugo Santos,3918,1424
+36748,Lele Lima,923,1863
+96179,Leo Pereira,3625,3480
+31043,Pedro da Silva,692,2691
+97494,Leo de Jesus,200,4944
+67474,Lele Lima,723,3819
+69509,João de Jesus,2877,715
+98739,Pedro Ferreira,1701,4113
+73912,Nicolas Oliveira,4127,4164
+28524,Ricardo Lima,538,472
+94705,Thierry Pinto,394,4119
+17708,Lidson Pinto,4097,2950
+68767,Nicolas Ferreira,2865,2621
+49011,Hugo Souza,4665,387
+57598,Marianna Souza,2562,1423
+40089,Lidson Lima,3106,1225
+57576,Pedro Pereira,4109,2851
+14366,Marianna Oliveira,561,637
+69867,Leo Pinto,2092,4266
+49507,Lidson Pinto,2523,3373
+32388,Lucas Martins,2639,1924
+10050,Lucas Martins,4249,4284
+75705,Lucas Santos,4684,1496
+99858,Pedro da Silva,3734,2794
+17798,Ellen Ferreira,4763,4292
+87533,Ricardo Oliveira,1780,815
+67835,Nicolas Santos,887,4690
+15183,Lele da Silva,1934,2920
+84453,Lucas Rodrigues,4540,536
+37223,Lucas Pereira,4084,1638
+99994,Thierry Pinto,1935,2334
+56575,Pedro Lima,2297,1288
+43996,Marianna Martins,599,1287
+26005,Thierry da Silva,4123,3387
+38305,Lidson Martins,2458,3881
+19898,Thierry Santos,296,134
+32178,Hugo Rodrigues,4199,2867
+56795,Ricardo Santos,1488,617
+14688,Lucas Pereira,18,4840
+16620,Nicolas Ferreira,3196,1687
+72109,Pedro Santos,1282,196
+22508,Pedro Pinto,291,4179
+60152,Nicolas Lima,1140,61
+91700,Pedro Pinto,2418,4635
+26414,Pedro Lima,4150,321
+24802,Ricardo Oliveira,1346,841
+39094,João Martins,4136,1822
+76582,Pedro de Jesus,519,189
+81491,Hugo de Jesus,3848,3659
+84024,Lucas Rodrigues,4849,4424
+61675,Ricardo Santos,1056,811
+26110,Marianna Oliveira,1718,2470
+29364,Ellen Martins,4509,4204
+18205,Ricardo Souza,4715,1197
+92707,Marianna Pereira,4204,4078
+26785,Ricardo Rodrigues,2244,356
+54256,Nicolas das Dores,330,4639
+24349,Ricardo Rodrigues,2597,2441
+70148,Pedro das Dores,1737,3658
+69004,Leo Lima,1083,149
+66759,Lucas de Jesus,2564,1347
+11873,Lidson Pereira,4979,4102
+30767,Ricardo Souza,2262,3854
+82112,João Pinto,4505,3980
+55523,Thierry Pereira,3392,404
+80711,Lucas Martins,4329,3924
+95899,Ricardo Santos,4641,4932
+17043,Thierry Ferreira,4077,1424
+93185,Ellen Rodrigues,296,130
+15806,João da Silva,556,3395
+85689,Lidson das Dores,4096,3840
+54988,Ellen Oliveira,586,1663
+44051,Marianna das Dores,516,3557
+87920,Lele de Jesus,4123,580
+77323,Lele de Jesus,87,2642
+82656,Lucas Oliveira,2550,4061
+10015,Pedro Pinto,1744,3312
+56424,Thierry Santos,2050,3254
+67027,Lidson Lima,5,3138
+17831,Lidson Santos,3434,3657
+23839,Thierry da Silva,4361,1926
+21482,Leo das Dores,2786,406
+17023,Marianna da Silva,1990,1057
+49964,Lidson Ferreira,614,1276
+98949,João Lima,4183,2173
+59112,Marianna Pinto,888,92
+79463,Ellen Souza,1340,4700
+19568,João Lima,567,2500
+32473,Leo Oliveira,4579,2868
+45144,Marianna Pereira,2022,356
+43919,Marianna Pereira,1760,4423
+96571,João Souza,2684,3182
+20204,Ellen Ferreira,408,2673
+13530,Nicolas Martins,2945,2277
+22877,Thierry Ferreira,164,378
+57913,Lele Souza,3114,4260
+59840,Nicolas de Jesus,2544,3087
+28546,Lidson Pereira,3038,2801
+82079,Pedro Lima,2441,2089
+28129,Ellen Pereira,582,3103
+44792,Pedro Oliveira,2728,4376
+92451,Ellen Pinto,1796,2852
+60132,João Ferreira,2062,434
+10369,Marianna Pereira,3593,3559
+10721,Ricardo de Jesus,2109,3082
+53478,Ellen Oliveira,3005,3247
+43120,João Ferreira,3291,3526
+78836,Nicolas das Dores,1073,1635
+34989,Lele Martins,4320,2680
+95849,Marianna Oliveira,3623,695
+32519,Ellen de Jesus,853,1075
+41735,Marianna da Silva,554,4428
+31674,Hugo de Jesus,4606,2892
+32378,Nicolas Lima,4181,3922
+25640,Leo Oliveira,1409,1582
+77642,Ricardo Pinto,849,1248
+62123,Ellen das Dores,1364,806
+29833,Lidson Souza,137,3741
+51633,Pedro Rodrigues,4039,2818
+79857,Pedro das Dores,3396,439
+28220,Lucas Martins,2592,3622
+43174,Lidson Santos,4978,3734
+64940,Nicolas Ferreira,1888,4195
+82486,João Rodrigues,853,327
+70620,Marianna de Jesus,3332,155
+92099,João da Silva,1552,4447
+22835,Leo de Jesus,4183,3990
+26804,Ricardo de Jesus,4564,4119
+74272,Hugo Oliveira,392,4565
+63952,Lele Ferreira,2884,1324
+16178,Leo Souza,4294,4538
+70202,Pedro Santos,1436,2730
+88696,Ricardo Santos,121,4418
+43082,Thierry de Jesus,3788,1584
+27007,Lidson Rodrigues,2854,4856
+76336,Lele Oliveira,293,2887
+36370,Lidson das Dores,1155,193
+75897,Marianna Oliveira,3626,2912
+30552,Hugo Santos,2123,3458
+11432,João Lima,3018,2618
+42122,Lucas das Dores,1318,658
+48538,Lele Souza,230,405
+10875,Lucas Lima,2758,4838
+20526,Ellen Oliveira,4051,1601
+55173,Marianna de Jesus,1734,683
+40450,Ellen Rodrigues,1279,550
+48283,Hugo Martins,1002,4555
+29502,Ricardo da Silva,3478,4784
+46729,Lidson Santos,3989,3352
+94593,Pedro Oliveira,1915,117
+47586,Hugo Santos,2754,3492
+16496,Marianna de Jesus,3281,2836
+71353,Ricardo das Dores,4560,3073
+42004,Lidson Oliveira,3499,3635
+22236,Nicolas Pereira,4085,2483
+27227,Hugo das Dores,3670,1390
+47749,Ricardo Rodrigues,4774,697
+76729,João Ferreira,4128,4983
+81902,Lele Ferreira,4524,4272
+14639,Lele Lima,894,4419
+30836,Lucas da Silva,606,2618
+93064,Lucas Santos,1064,2721
+47309,Leo de Jesus,2437,2507
+85441,Hugo Lima,2018,3149
+69924,Nicolas Oliveira,2570,1108
+98939,Lucas das Dores,4049,11
+15349,João Pereira,2462,1422
+72867,Nicolas de Jesus,2095,1371
+82592,Thierry Rodrigues,182,890
+61388,Marianna Santos,1397,3456
+67552,Ellen Souza,930,153
+27214,Marianna da Silva,21,512
+25306,Hugo Pinto,4058,728
+35800,Leo Pinto,324,1362
+62954,Ricardo Souza,1859,4851
+17740,Pedro das Dores,3099,4408
+99858,Lidson Martins,686,1580
+79293,Marianna Santos,2673,1838
+23859,Ellen Ferreira,3915,1636
+60520,João Pereira,4855,4196
+48027,Thierry Oliveira,551,757
+85244,Leo Pereira,159,851
+85935,Nicolas da Silva,1457,752
+83553,Leo da Silva,1856,1371
+95995,Hugo Pereira,2493,1057
+72599,Ricardo de Jesus,3935,3558
+44059,Lucas Rodrigues,3554,153
+63310,Marianna da Silva,497,1555
+47311,Pedro das Dores,3057,4568
+44143,Lucas Pereira,2362,2049
+16976,Lidson Santos,646,1392
+30719,Lucas Ferreira,53,2260
+59745,Hugo Lima,1791,514
+24821,Leo Oliveira,2900,2079
+12508,Ricardo Oliveira,4590,4349
+92713,João Pinto,3645,77
+66459,Nicolas Rodrigues,507,4413
+59367,Leo Oliveira,3823,3267
+86389,Hugo Ferreira,4522,1720
+57518,Ricardo Pinto,2407,2733
+32624,Marianna Ferreira,3452,107
+24562,Lele Martins,2591,3520
+52711,Lidson Rodrigues,449,232
+79801,João Santos,4849,4661
+20583,Hugo de Jesus,291,2041
+52368,Ricardo Santos,3824,2066
+43962,Lidson de Jesus,4668,2316
+82782,Marianna de Jesus,183,3334
+41876,Leo Lima,4112,1325
+82176,Lucas Pinto,412,2734
+35907,Lucas da Silva,233,1200
+45286,Ricardo Ferreira,3496,4910
+15995,Leo Ferreira,4565,4259
+42465,Leo Rodrigues,1790,820
+56824,Pedro Santos,3354,1101
+51164,Lele Ferreira,3920,4310
+49469,João Pereira,1209,2529
+29065,Leo Santos,521,4932
+45535,Lucas das Dores,2139,3193
+28246,Leo Santos,3729,4963
+64236,Thierry das Dores,2101,3859
+27677,Lucas das Dores,4604,3865
+79240,Thierry Souza,3425,4912
+10508,Lidson da Silva,526,1504
+94306,Nicolas Pinto,1820,4421
+42278,Lidson das Dores,1842,826
+27491,Ricardo da Silva,3749,3466
+81116,Pedro Rodrigues,2813,682
+34888,Pedro Souza,3376,2272
+33502,Ellen Oliveira,4530,4078
+15877,Ricardo Santos,4183,3843
+96840,Marianna Souza,3479,2251
+38613,Marianna Pereira,4239,4117
+50086,Ellen das Dores,43,452
+11395,Ricardo Oliveira,2238,96
+17884,Hugo Pinto,870,3740
+57559,Marianna Rodrigues,1335,853
+83556,Thierry Oliveira,2197,2366
+15735,Hugo Lima,3478,1107
+82906,Ellen Lima,197,3357
+25175,Pedro Rodrigues,807,1719
+79122,Leo da Silva,3238,3907
+89761,Hugo de Jesus,3675,4263
+20218,Lucas Souza,2022,1298
+11371,Thierry da Silva,4066,1491
+70005,Nicolas da Silva,1740,3961
+84406,Ellen Pinto,3216,4675
+76795,João Rodrigues,4680,2257
+16734,Ellen de Jesus,2626,3777
+20775,Lele Oliveira,1686,1419
+35738,Hugo Oliveira,2746,2617
+25787,Ellen da Silva,4437,1384
+72599,Pedro Lima,1491,58
+80665,Hugo de Jesus,2355,667
+20716,Leo Pereira,510,3743
+55548,Lidson das Dores,2554,4282
+34696,Leo Pereira,316,694
+60557,Thierry Martins,1072,2071
+84673,Marianna de Jesus,306,4577
+10627,Ellen de Jesus,3991,47
+74232,Leo de Jesus,3006,912
+96110,Lele de Jesus,238,513
+59167,Leo Rodrigues,688,3891
+98280,Hugo Souza,1330,2110
+22738,Lele das Dores,1382,275
+27941,Ellen Lima,4020,4178
+58983,Hugo Martins,420,4198
+64574,Lele Oliveira,2458,812
+53289,Thierry Rodrigues,4578,2297
+35307,Hugo de Jesus,1226,2494
+84622,Leo Oliveira,2870,4021
+24412,Ricardo Ferreira,2014,3778
+19760,Ellen da Silva,2093,4134
+23806,Pedro Santos,3816,1720
+92644,Nicolas Rodrigues,767,2085
+91566,Marianna de Jesus,2656,2204
+35099,Leo Pereira,646,4580
+95065,Ricardo Lima,1385,48
+80442,Nicolas Souza,1542,2396
+64006,Lele Lima,1976,4912
+48874,Nicolas Souza,2194,3135
+77597,Ellen das Dores,786,4162
+43446,Lidson Pinto,888,601
+49098,Leo Oliveira,1882,3332
+78831,João das Dores,1147,1109
+51094,Hugo de Jesus,1843,4064
+45065,Lidson Pinto,3697,2484
+56188,Hugo Pinto,3179,4810
+47891,João Souza,522,574
+67515,João Pinto,149,4914
+74684,Ellen Lima,492,4485
+98240,Thierry da Silva,206,1959
+64772,Nicolas Ferreira,1818,2177
+88488,Lucas Santos,3755,2288
+81849,Leo Pinto,3037,2101
+37400,Pedro da Silva,1381,1401
+79277,Ellen de Jesus,3914,2289
+89578,Lidson Rodrigues,4199,1620
+64111,Lele da Silva,2112,632
+29517,Lele das Dores,866,4386
+40000,Marianna Ferreira,716,4247
+80169,João da Silva,3046,2197
+44423,Lidson Souza,811,3863
+50323,Marianna Lima,2214,2788
+90970,Ellen Pereira,3143,2651
+83252,João Oliveira,3891,882
+73934,Lucas Souza,1545,4618
+34849,Lidson Pinto,4308,404
+94964,Marianna das Dores,43,1303
+72735,Lele de Jesus,3496,800
+32488,Lele da Silva,2843,3002
+31419,Nicolas Pinto,1034,4018
+35604,Leo Pereira,417,3660
+42917,Marianna Oliveira,4701,3081
+64823,Lele Martins,2050,3574
+62127,Leo Martins,635,3514
+65632,João de Jesus,538,2534
+70483,Ricardo Pereira,1299,4178
+70969,Ricardo Souza,1038,1278
+23070,Lucas Pereira,638,3565
+72234,Lidson Santos,2995,3347
+17664,Hugo Lima,3943,405
+49135,Ellen Martins,2504,935
+70870,Hugo Rodrigues,2457,842
+17784,Ellen de Jesus,3712,1361
+27330,Lucas das Dores,2752,2442
+80493,Ricardo da Silva,2035,4621
+98985,Nicolas Rodrigues,1081,3085
+25334,Leo Lima,1985,2153
+84191,Lidson das Dores,4556,3285
+66378,Hugo Pereira,1469,1128
+45565,Nicolas Pinto,2835,2284
+99050,Leo Santos,864,868
+81015,João Santos,4236,3618
+69533,Ellen Martins,2705,3591
+21340,Nicolas das Dores,4530,1400
+57942,João Oliveira,1988,905
+88555,Pedro Martins,1226,3560
+96663,Leo Santos,4132,266
+36630,Pedro Martins,4479,1152
+97161,Thierry Santos,48,1531
+19977,Pedro Lima,3091,1662
+81452,Ellen Santos,4083,2163
+84197,João Rodrigues,1766,3673
+88872,Lidson de Jesus,4838,2889
+76389,Ricardo Rodrigues,1741,1491
+47016,Lidson Oliveira,3673,1856
+21048,João das Dores,3792,655
+39819,Ricardo Pinto,4239,3890
+60386,Pedro Lima,4973,2720
+46456,Ricardo das Dores,3373,3688
+85430,João Rodrigues,618,1989
+91191,Ricardo Ferreira,4484,3950
+68984,João Martins,4251,1567
+61941,Ellen Oliveira,1478,2261
+75696,Hugo Rodrigues,3968,232
+33932,Nicolas Lima,3470,761
+93411,Thierry Oliveira,3270,3121
+34994,Pedro Pinto,3326,3658
+89747,Hugo Oliveira,945,1313
+97190,Lidson Santos,2463,310
+13814,Pedro Martins,3852,150
+58396,Thierry das Dores,146,160
+32105,Pedro Pinto,3913,11
+20688,Lele Pinto,719,4341
+79771,Leo Oliveira,297,148
+69379,Lele Souza,3605,1435
+23448,Hugo de Jesus,3648,441
+17387,Nicolas Ferreira,3580,3162

@@ -1,7 +1,7 @@
 ﻿#include "../headers/Prefeito.hpp"
 
 Prefeito::Prefeito(Eleitor eleitor, std::string partido, std::string cidade, std::string numero) : 
-    Eleitor(eleitor), partido(partido), cidade(cidade), numero(numero), votos(0)
+    Eleitor(eleitor), partido(partido), cidade(cidade), numero(numero)
 {
 }
 
@@ -50,8 +50,8 @@ void Prefeito::setNumero(std::string numero)
 }
 
 void Prefeito::ReceberVoto()
-{
-    setVotos(getVotos() + 1);
+{   
+    votos += 1; 
 }
 
 void Prefeito::display()

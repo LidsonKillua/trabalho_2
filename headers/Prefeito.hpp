@@ -7,7 +7,7 @@ class Prefeito : public Eleitor
 {
     private:
         std::string partido, numero, cidade;
-        int votos;
+        int votos = 0;
 
         void setVotos(int votos);
 
