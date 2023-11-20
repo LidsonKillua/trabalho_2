@@ -10,20 +10,30 @@ Tribunal::Tribunal()
 
 Tribunal::~Tribunal()
 {
+    // Deletando eleitores, prefeitos e vereadores
+    for(int i = 0; i < eleitores.size(); i++){
+        delete eleitores[i];
+    }
+    for(int i = 0; i < prefeitos.size(); i++){
+        delete prefeitos[i];
+    }
+    for(int i = 0; i < vereadores.size(); i++){
+        delete vereadores[i];
+    }
 }
 
 bool Tribunal::IsEleitor(std::string titulo){
     for(int i = 0; i < eleitores.size(); i++){
-        if(eleitores[i].getTitulo() == titulo){
+        if(eleitores[i]->getTitulo() == titulo){
             return true;
         }
     }
     return false;
 }
 
-Eleitor Tribunal::getEleitor(std::string titulo){
+Eleitor* Tribunal::getEleitor(std::string titulo){
     for(int i = 0; i < eleitores.size(); i++){
-        if(eleitores[i].getTitulo() == titulo){
+        if(eleitores[i]->getTitulo() == titulo){
             return eleitores[i];
         }
     }
@@ -34,7 +44,7 @@ Eleitor Tribunal::getEleitor(std::string titulo){
 
 bool Tribunal::IsPrefeito(std::string titulo){
     for(int i = 0; i < prefeitos.size(); i++){
-        if(prefeitos[i].getTitulo() == titulo){
+        if(prefeitos[i]->getTitulo() == titulo){
             return true;
         }
     }
@@ -43,7 +53,7 @@ bool Tribunal::IsPrefeito(std::string titulo){
 
 bool Tribunal::IsVereador(std::string titulo){
     for(int i = 0; i < vereadores.size(); i++){
-        if(vereadores[i].getTitulo() == titulo){
+        if(vereadores[i]->getTitulo() == titulo){
             return true;
         }
     }
@@ -55,13 +65,14 @@ void Tribunal::criarEleitor(const std::string titulo, const std::string nome, co
         std::cerr << "Eleitor já cadastrado!" << std::endl;
         return;
     }
-    eleitores.push_back(Eleitor(titulo, nome, zona, secao));
+    Eleitor* eleitor = new Eleitor(titulo, nome, zona, secao);
+    eleitores.push_back(eleitor);
 }
 
 void Tribunal::lerEleitor(std::string titulo){
     for(int i = 0; i < eleitores.size(); i++){
-        if(eleitores[i].getTitulo() == titulo){
-            eleitores[i].display();
+        if(eleitores[i]->getTitulo() == titulo){
+            eleitores[i]->display();
             return;
         }
     }
@@ -70,10 +81,10 @@ void Tribunal::lerEleitor(std::string titulo){
 
 void Tribunal::atualizarEleitor(const std::string titulo, const std::string nome, const std::string zona, const std::string secao){
     for(int i = 0; i < eleitores.size(); i++){
-        if(eleitores[i].getTitulo() == titulo){
-            eleitores[i].setNome(nome);
-            eleitores[i].setZona(zona);
-            eleitores[i].setSecao(secao);
+        if(eleitores[i]->getTitulo() == titulo){
+            eleitores[i]->setNome(nome);
+            eleitores[i]->setZona(zona);
+            eleitores[i]->setSecao(secao);
             return;
         }
     }
@@ -82,7 +93,8 @@ void Tribunal::atualizarEleitor(const std::string titulo, const std::string nome
 
 void Tribunal::deletarEleitor(std::string titulo){
     for(int i = 0; i < eleitores.size(); i++){
-        if(eleitores[i].getTitulo() == titulo){
+        if(eleitores[i]->getTitulo() == titulo){
+            delete eleitores[i];
             eleitores.erase(eleitores.begin() + i);
             return;
         }
@@ -95,25 +107,28 @@ void Tribunal::criarPrefeito(const std::string titulo, const std::string nome, c
 {
     // Se já existir um eleitor com o título, criar um prefeito e associar a ele
     if(IsEleitor(titulo)){
-        prefeitos.push_back(Prefeito(getEleitor(titulo), partido, cidade, numero));
+        Prefeito* prefeito = new Prefeito(getEleitor(titulo), partido, cidade, numero);
+        prefeitos.push_back(prefeito);
         return;
     }   
     else{
         // Se não existir, criar um eleitor e um prefeito
-        Eleitor eleitor(titulo, nome, zona, secao);
+        Eleitor* eleitor = new Eleitor(titulo, nome, zona, secao);
+        Prefeito* prefeito = new Prefeito(eleitor, partido, cidade, numero);
         eleitores.push_back(eleitor);
-        prefeitos.push_back(Prefeito(eleitor, partido, cidade, numero));
+        prefeitos.push_back(prefeito);
     }
 }
 
-void Tribunal::criarPrefeito(const Eleitor& eleitor, const std::string partido, const std::string cidade, const std::string numero){
-    prefeitos.push_back(Prefeito(eleitor, partido, cidade, numero));
+void Tribunal::criarPrefeito(Eleitor* eleitor, const std::string partido, const std::string cidade, const std::string numero){
+    Prefeito* prefeito = new Prefeito(eleitor, partido, cidade, numero);
+    prefeitos.push_back(prefeito);
 }
 
 void Tribunal::lerPrefeito(std::string titulo){
     for(int i = 0; i < prefeitos.size(); i++){
-        if(prefeitos[i].getTitulo() == titulo){
-            prefeitos[i].display();
+        if(prefeitos[i]->getTitulo() == titulo){
+            prefeitos[i]->display();
             return;
         }
     }
@@ -122,13 +137,13 @@ void Tribunal::lerPrefeito(std::string titulo){
 
 void Tribunal::atualizarPrefeito(std::string titulo, const std::string nome, const std::string zona, const std::string secao, const std::string partido, const std::string cidade, const std::string numero){
     for(int i = 0; i < prefeitos.size(); i++){
-        if(prefeitos[i].getTitulo() == titulo){
-            prefeitos[i].setNome(nome);
-            prefeitos[i].setZona(zona);
-            prefeitos[i].setSecao(secao);
-            prefeitos[i].setPartido(partido);
-            prefeitos[i].setCidade(cidade);
-            prefeitos[i].setNumero(numero);
+        if(prefeitos[i]->getTitulo() == titulo){
+            prefeitos[i]->setNome(nome);
+            prefeitos[i]->setZona(zona);
+            prefeitos[i]->setSecao(secao);
+            prefeitos[i]->setPartido(partido);
+            prefeitos[i]->setCidade(cidade);
+            prefeitos[i]->setNumero(numero);
             return;
         }
     }
@@ -137,7 +152,8 @@ void Tribunal::atualizarPrefeito(std::string titulo, const std::string nome, con
 
 void Tribunal::deletarPrefeito(std::string titulo){
     for(int i = 0; i < prefeitos.size(); i++){
-        if(prefeitos[i].getTitulo() == titulo){
+        if(prefeitos[i]->getTitulo() == titulo){
+            delete prefeitos[i];
             prefeitos.erase(prefeitos.begin() + i);
             return;
         }
@@ -150,25 +166,28 @@ void Tribunal::criarVereador(const std::string titulo, const std::string nome, c
 {
     // Se já existir um eleitor com o título, criar um vereador e associar a ele
     if(IsEleitor(titulo)){
-        vereadores.push_back(Vereador(getEleitor(titulo), partido, cidade, numero));
+        Vereador* vereador = new Vereador(getEleitor(titulo), partido, cidade, numero);
+        vereadores.push_back(vereador);
         return;
     }   
     else{
         // Se não existir, criar um eleitor e um vereador
-        Eleitor eleitor(titulo, nome, zona, secao);
+        Eleitor* eleitor = new Eleitor(titulo, nome, zona, secao);
+        Vereador* vereador = new Vereador(eleitor, partido, cidade, numero);
         eleitores.push_back(eleitor);
-        vereadores.push_back(Vereador(eleitor, partido, cidade, numero));
+        vereadores.push_back(vereador);
     }
 }
 
-void Tribunal::criarVereador(const Eleitor& eleitor, const std::string partido, const std::string cidade, const std::string numero){
-    vereadores.push_back(Vereador(eleitor, partido, cidade, numero));
+void Tribunal::criarVereador(Eleitor* eleitor, const std::string partido, const std::string cidade, const std::string numero){
+    Vereador* vereador = new Vereador(eleitor, partido, cidade, numero);
+    vereadores.push_back(vereador);
 }
 
 void Tribunal::lerVereador(std::string titulo){
     for(int i = 0; i < vereadores.size(); i++){
-        if(vereadores[i].getTitulo() == titulo){
-            vereadores[i].display();
+        if(vereadores[i]->getTitulo() == titulo){
+            vereadores[i]->display();
             return;
         }
     }
@@ -177,13 +196,13 @@ void Tribunal::lerVereador(std::string titulo){
 
 void Tribunal::atualizarVereador(std::string titulo, const std::string nome, const std::string zona, const std::string secao, const std::string partido, const std::string cidade, const std::string numero){
     for(int i = 0; i < vereadores.size(); i++){
-        if(vereadores[i].getTitulo() == titulo){
-            vereadores[i].setNome(nome);
-            vereadores[i].setZona(zona);
-            vereadores[i].setSecao(secao);
-            vereadores[i].setPartido(partido);
-            vereadores[i].setCidade(cidade);
-            vereadores[i].setNumero(numero);
+        if(vereadores[i]->getTitulo() == titulo){
+            vereadores[i]->setNome(nome);
+            vereadores[i]->setZona(zona);
+            vereadores[i]->setSecao(secao);
+            vereadores[i]->setPartido(partido);
+            vereadores[i]->setCidade(cidade);
+            vereadores[i]->setNumero(numero);
             return;
         }
     }
@@ -192,7 +211,8 @@ void Tribunal::atualizarVereador(std::string titulo, const std::string nome, con
 
 void Tribunal::deletarVereador(std::string titulo){
     for(int i = 0; i < vereadores.size(); i++){
-        if(vereadores[i].getTitulo() == titulo){
+        if(vereadores[i]->getTitulo() == titulo){
+            delete vereadores[i];
             vereadores.erase(vereadores.begin() + i);
             return;
         }
@@ -209,7 +229,7 @@ void Tribunal::votarPrefeito(){
         std::cerr << "Eleitor não cadastrado!" << std::endl;
         return;
     }
-    else if(getEleitor(titulo).IsJaVotouPrefeito()){
+    else if(getEleitor(titulo)->IsJaVotouPrefeito()){
         std::cerr << "Este eleitor já votou para prefeito!" << std::endl;
         return;
     }
@@ -219,9 +239,9 @@ void Tribunal::votarPrefeito(){
     std::cin >> numero;
 
     for(int i = 0; i < prefeitos.size(); i++){
-        if(prefeitos[i].getNumero() == numero){
-            prefeitos[i].ReceberVoto();
-            getEleitor(titulo).setJaVotouPrefeito(true);
+        if(prefeitos[i]->getNumero() == numero){
+            prefeitos[i]->ReceberVoto();
+            getEleitor(titulo)->setJaVotouPrefeito(true);
             return;
         }
     }
@@ -237,7 +257,7 @@ void Tribunal::votarVereador(){
         std::cerr << "Eleitor não cadastrado!" << std::endl;
         return;
     }
-    else if(getEleitor(titulo).IsJaVotouVereador()){
+    else if(getEleitor(titulo)->IsJaVotouVereador()){
         std::cerr << "Este eleitor já votou para vereador!" << std::endl;
         return;
     }
@@ -247,9 +267,9 @@ void Tribunal::votarVereador(){
     std::cin >> numero;
 
     for(int i = 0; i < vereadores.size(); i++){
-        if(vereadores[i].getNumero() == numero){
-            vereadores[i].ReceberVoto();
-            getEleitor(titulo).setJaVotouVereador(true);
+        if(vereadores[i]->getNumero() == numero){
+            vereadores[i]->ReceberVoto();
+            getEleitor(titulo)->setJaVotouVereador(true);
             return;
         }
     }
@@ -265,23 +285,23 @@ void Tribunal::relatorioEleicao(){
     int qtd = 3;
 
     // Ordenar prefeitos por votos
-    std::sort(prefeitos.begin(), prefeitos.end(), [](Prefeito a, Prefeito b){
-        return a.getVotos() > b.getVotos();
+    std::sort(prefeitos.begin(), prefeitos.end(), [](Prefeito* a, Prefeito* b){
+        return a->getVotos() > b->getVotos();
     });
 
     for(int i = 0; i < prefeitos.size(); i++){
         if(qtd == 0){
             break;
         }
-        std::cout << prefeitos[i].getNumero() << " - " << prefeitos[i].getNome() << " - " << prefeitos[i].getVotos() << " votos" << std::endl;
+        std::cout << prefeitos[i]->getNumero() << " - " << prefeitos[i]->getNome() << " - " << prefeitos[i]->getVotos() << " votos" << std::endl;
         qtd--;
     }
 
     std::cout << "15 Vereadores mais votados:" << std::endl;
 
     // Ordenar vereadores por votos
-    std::sort(vereadores.begin(), vereadores.end(), [](Vereador a, Vereador b){
-        return a.getVotos() > b.getVotos();
+    std::sort(vereadores.begin(), vereadores.end(), [](Vereador* a, Vereador* b){
+        return a->getVotos() > b->getVotos();
     });
 
     qtd = 15;
@@ -290,7 +310,7 @@ void Tribunal::relatorioEleicao(){
         if(qtd == 0){
             break;
         }
-        std::cout << vereadores[i].getNumero() << " - " << vereadores[i].getNome() << " - " << vereadores[i].getVotos() << " votos" << std::endl;
+        std::cout << vereadores[i]->getNumero() << " - " << vereadores[i]->getNome() << " - " << vereadores[i]->getVotos() << " votos" << std::endl;
         qtd--;
     }
 
@@ -304,25 +324,25 @@ void Tribunal::finalizarEleicao(){
     relatorioEleicao();
 
     // Ordenar prefeitos por votos
-    std::sort(prefeitos.begin(), prefeitos.end(), [](Prefeito a, Prefeito b){
-        return a.getVotos() > b.getVotos();
+    std::sort(prefeitos.begin(), prefeitos.end(), [](Prefeito* a, Prefeito* b){
+        return a->getVotos() > b->getVotos();
     });
 
-    std::cout << "\nO prefeito eleito é: " << prefeitos[0].getNome() << " com " << prefeitos[0].getVotos() << " votos." << std::endl;
+    std::cout << "\nO prefeito eleito é: " << prefeitos[0]->getNome() << " com " << prefeitos[0]->getVotos() << " votos." << std::endl;
 
     std::cout << "Os 10 vereadores eleitos são: \n" << std::endl;
     int qtd = 10;
 
     // Ordenar vereadores por votos
-    std::sort(vereadores.begin(), vereadores.end(), [](Vereador a, Vereador b){
-        return a.getVotos() > b.getVotos();
+    std::sort(vereadores.begin(), vereadores.end(), [](Vereador* a, Vereador* b){
+        return a->getVotos() > b->getVotos();
     });
 
     for(int i = 0; i < vereadores.size(); i++){
         if(qtd == 0){
             break;
         }
-        std::cout << vereadores[i].getNome() << " com " << vereadores[i].getVotos() << " votos." << std::endl;
+        std::cout << vereadores[i]->getNome() << " com " << vereadores[i]->getVotos() << " votos." << std::endl;
         qtd--;
     }    
     std::cout << std::endl;
@@ -332,7 +352,7 @@ void Tribunal::listarEleitores(){
     std::cout << "Eleitores cadastrados:" << std::endl;
 
     for(int i = 0; i < eleitores.size(); i++){
-        eleitores[i].display();
+        eleitores[i]->display();
     }
 }
 
@@ -340,8 +360,8 @@ void Tribunal::listarEleitoresNaoCandidatos(){
     std::cout << "Eleitores não candidatos cadastrados:" << std::endl;
 
     for(int i = 0; i < eleitores.size(); i++){
-        if(!IsPrefeito(eleitores[i].getTitulo()) && !IsVereador(eleitores[i].getTitulo())){
-            eleitores[i].display();
+        if(!IsPrefeito(eleitores[i]->getTitulo()) && !IsVereador(eleitores[i]->getTitulo())){
+            eleitores[i]->display();
         }
     }
 }
@@ -350,7 +370,7 @@ void Tribunal::listarPrefeitos(){
     std::cout << "Candidatos a Prefeito cadastrados:" << std::endl;
 
     for(int i = 0; i < prefeitos.size(); i++){
-        prefeitos[i].display();
+        prefeitos[i]->display();
     }
 }
 
@@ -358,7 +378,7 @@ void Tribunal::listarVereadores(){
     std::cout << "Candidatos a Vereador cadastrados:" << std::endl;
 
     for(int i = 0; i < vereadores.size(); i++){
-        vereadores[i].display();
+        vereadores[i]->display();
     }
 }
 
@@ -688,9 +708,9 @@ void Tribunal::EleicaoAutomatica(){
         getline(ss, numero, '\n');
 
         for(int i = 0; i < prefeitos.size(); i++){
-            if(prefeitos[i].getNumero() == numero){
-                prefeitos[i].ReceberVoto();
-                getEleitor(titulo).setJaVotouPrefeito(true);
+            if(prefeitos[i]->getNumero() == numero){
+                prefeitos[i]->ReceberVoto();
+                getEleitor(titulo)->setJaVotouPrefeito(true);
                 break;
             }
         }
@@ -712,9 +732,9 @@ void Tribunal::EleicaoAutomatica(){
         getline(ss, numero, '\n');
 
         for(int i = 0; i < vereadores.size(); i++){
-            if(vereadores[i].getNumero() == numero){
-                vereadores[i].ReceberVoto();
-                getEleitor(titulo).setJaVotouVereador(true);
+            if(vereadores[i]->getNumero() == numero){
+                vereadores[i]->ReceberVoto();
+                getEleitor(titulo)->setJaVotouVereador(true);
                 break;
             }
         }

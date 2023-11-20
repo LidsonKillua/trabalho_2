@@ -3,7 +3,7 @@
 
 int main()
 {
-    Tribunal TribunalPrincipal; 
+    Tribunal* TribunalPrincipal; 
     int op;
     std::cout << "Bem vindo ao sistema de eleição!" << std::endl;
 
@@ -22,22 +22,22 @@ int main()
         switch(op)
         {
         case 1:
-            TribunalPrincipal.CadastroEleitor();
+            TribunalPrincipal->CadastroEleitor();
             break;
         case 2:
-            TribunalPrincipal.CadastroPrefeito();
+            TribunalPrincipal->CadastroPrefeito();
             break;
         case 3:
-            TribunalPrincipal.CadastroVereador();
+            TribunalPrincipal->CadastroVereador();
             break;
         case 4:
-            TribunalPrincipal.listarTodos();
+            TribunalPrincipal->listarTodos();
             break;
         case 5:
-            TribunalPrincipal.realizarEleicao();
+            TribunalPrincipal->realizarEleicao();
             break;
         case 6:
-            TribunalPrincipal.LerVarios();
+            TribunalPrincipal->LerVarios();
             break;
         case 9:
             std::cout << "Saindo..." << std::endl;
@@ -48,6 +48,8 @@ int main()
             break;
         }   
     }
+
+    delete TribunalPrincipal;
 
     return 0;
 }

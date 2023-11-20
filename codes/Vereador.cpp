@@ -1,8 +1,7 @@
 ﻿#include "../headers/Vereador.hpp"
 
-Vereador::Vereador(Eleitor eleitor, std::string partido, std::string cidade, std::string numero) : 
-    Eleitor(eleitor.getTitulo(), eleitor.getNome(), eleitor.getZona(), eleitor.getSecao()), partido(partido), 
-    cidade(cidade), numero(numero), votos(0)
+Vereador::Vereador(Eleitor* eleitor, std::string partido, std::string cidade, std::string numero) : 
+    Eleitor(*eleitor), partido(partido), cidade(cidade), numero(numero), votos(0)
 {
 }
 

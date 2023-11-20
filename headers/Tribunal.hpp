@@ -8,15 +8,17 @@
 
 class Tribunal {
 private:
-    std::vector<Prefeito> prefeitos;
-    std::vector<Vereador> vereadores;
-    std::vector<Eleitor> eleitores;
+    std::vector<Prefeito*> prefeitos;
+    std::vector<Vereador*> vereadores;
+    std::vector<Eleitor*> eleitores;
 
+    // Métodos auxiliares
     bool IsEleitor(std::string titulo);
-    Eleitor getEleitor(std::string titulo);
+    Eleitor* getEleitor(std::string titulo);
     bool IsPrefeito(std::string titulo);
     bool IsVereador(std::string titulo);
 
+    // Métodos para realizar a eleição
     void votarPrefeito();
     void votarVereador();
     void relatorioEleicao();
@@ -33,7 +35,7 @@ private:
     // Métodos de CRUD para prefeitos
     void criarPrefeito(const std::string titulo, const std::string nome, const std::string zona, 
         const std::string secao, const std::string partido, const std::string cidade, const std::string numero);
-    void criarPrefeito(const Eleitor& eleitor, const std::string partido, const std::string cidade, const std::string numero);
+    void criarPrefeito(Eleitor* eleitor, const std::string partido, const std::string cidade, const std::string numero);
     void lerPrefeito(std::string titulo);
     void atualizarPrefeito(std::string titulo, const std::string nome, const std::string zona, const std::string secao, const std::string partido, const std::string cidade, const std::string numero);
     void deletarPrefeito(std::string titulo);
@@ -42,7 +44,7 @@ private:
     // Métodos de CRUD para vereadores
     void criarVereador(const std::string titulo, const std::string nome, const std::string zona, 
         const std::string secao, const std::string partido, const std::string cidade, const std::string numero);
-    void criarVereador(const Eleitor& eleitor, const std::string partido, const std::string cidade, const std::string numero);
+    void criarVereador(Eleitor* eleitor, const std::string partido, const std::string cidade, const std::string numero);
     void lerVereador(std::string titulo);
     void atualizarVereador(std::string titulo, const std::string nome, const std::string zona, const std::string secao, const std::string partido, const std::string cidade, const std::string numero);
     void deletarVereador(std::string titulo);
@@ -53,9 +55,12 @@ public:
     Tribunal();
     ~Tribunal();
 
+    // Métodos para o menu
     void CadastroEleitor();
     void CadastroPrefeito();
     void CadastroVereador();
+
+    // Métodos para testes
     void LerVarios();
     void listarTodos();
 

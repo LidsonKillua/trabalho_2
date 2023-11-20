@@ -7,11 +7,11 @@ class Vereador : public Eleitor
 {
     private:
         std::string partido, numero, cidade;
-        int votos;
+        int votos = 0;
         void setVotos(int votos);
 
     public:
-        Vereador(Eleitor eleitor, std::string partido, std::string cidade , std::string numero);
+        Vereador(Eleitor* eleitor, std::string partido, std::string cidade, std::string numero);
         ~Vereador();
         std::string getCidade();
         std::string getPartido();

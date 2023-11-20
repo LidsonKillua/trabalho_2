@@ -1,7 +1,7 @@
 ﻿#include "../headers/Prefeito.hpp"
 
-Prefeito::Prefeito(Eleitor eleitor, std::string partido, std::string cidade, std::string numero) : 
-    Eleitor(eleitor), partido(partido), cidade(cidade), numero(numero)
+Prefeito::Prefeito(Eleitor* eleitor, std::string partido, std::string cidade, std::string numero) : 
+    Eleitor(*eleitor), partido(partido), cidade(cidade), numero(numero), votos(0)
 {
 }
 

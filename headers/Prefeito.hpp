@@ -12,7 +12,7 @@ class Prefeito : public Eleitor
         void setVotos(int votos);
 
     public:
-        Prefeito(Eleitor eleitor, std::string partido, std::string cidade, std::string numero);
+        Prefeito(Eleitor* eleitor, std::string partido, std::string cidade, std::string numero);
         ~Prefeito();
         std::string getCidade();
         std::string getPartido();
