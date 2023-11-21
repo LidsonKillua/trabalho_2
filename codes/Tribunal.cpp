@@ -20,6 +20,9 @@ Tribunal::~Tribunal()
     for(int i = 0; i < vereadores.size(); i++){
         delete vereadores[i];
     }
+    eleitores.clear();
+    prefeitos.clear();
+    vereadores.clear();
 }
 
 bool Tribunal::IsEleitor(std::string titulo){
